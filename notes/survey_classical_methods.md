@@ -32,8 +32,8 @@
 |---------|-----|-----|-----|
 | **Type** | Linear algebra (matrix factorization) | Matrix factorization with a constraint | Generative probabilistic model |
 | **Basis** | Singular Value Decomposition (SVD) | Non-negativity constraint (W, H ≥ 0) | Dirichlet priors over topic and word distributions |
-| **Probabilistic?** | No — purely geometric | No — deterministic optimization | Yes — fully generative model |
+| **Probabilistic?** | No purely geometric | No deterministic optimization | Yes fully generative model |
 | **Interpretability** | Low (abstract, hard-to-read components) | High (real, meaningful parts) | High (topics are clear word distributions) |
-| **Short text performance** | Weak (needs enough co-occurrence signal) | Moderate (works but noisy on very short text) | Weak (sparsity hurts — better suited to longer documents) |
+| **Short text performance** | Weak (needs enough co-occurrence signal) | Moderate (works but noisy on very short text) | Weak (sparsity hurts, better suited to longer documents) |
 | **Must specify # topics?** | Yes (choose k) | Yes (choose r) | Yes (choose k) |
 | **Popular library** | `scikit-learn` (TruncatedSVD), `gensim` | `scikit-learn` (NMF) | `gensim` (LdaModel), `scikit-learn` (LatentDirichletAllocation) |
