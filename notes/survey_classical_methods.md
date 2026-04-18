@@ -2,8 +2,12 @@
 
 **Sources:** LSA, NMF, LDA notes + Towards Data Science comparison article
 
-[What is Topic Modelling? and definitions of Bag of Words and Document Term Matrix concepts](https://www.ibm.com/think/topics/latent-dirichlet-allocation#:~:text=Simply%20put%2C%20LDA%20is%20a,terms%20derived%20from%20those%20documents)
-[What is Bag of Words?][https://www.ibm.com/think/topics/bag-of-words]
+- [What is Topic Modelling? and definitions of Bag of Words and Document Term Matrix concepts](https://www.ibm.com/think/topics/latent-dirichlet-allocation#:~:text=Simply%20put%2C%20LDA%20is%20a,terms%20derived%20from%20those%20documents)
+- [What is Bag of Words?](https://www.ibm.com/think/topics/bag-of-words)
+- [LSA](https://www.cs.jhu.edu/~jason/600.665/deerwester.pdf)
+- [NMF](https://www.cs.cmu.edu/~efros/courses/AP06/Papers/lee-nature-99.pdf)
+- [LDA](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 --- 
 
 ## 1. What is Topic Modeling?
