@@ -25,3 +25,15 @@
 ## 3. What is Document-Term Matrix?
 > A Document-Term Matrix is a mathematical table or grid used to track and model how often words appear across a collection of documents. We can explain Document Term Matrix as next step
 > that is used after Bag of Words. It organizes the extracted data into a better-structured format to enable algorithms, such as the LDA topic model, to process and understand the text.
+
+## 4. Comparison Table
+
+| Feature | LSA | NMF | LDA |
+|---------|-----|-----|-----|
+| **Type** | Linear algebra (matrix factorization) | Matrix factorization with a constraint | Generative probabilistic model |
+| **Basis** | Singular Value Decomposition (SVD) | Non-negativity constraint (W, H ≥ 0) | Dirichlet priors over topic and word distributions |
+| **Probabilistic?** | No — purely geometric | No — deterministic optimization | Yes — fully generative model |
+| **Interpretability** | Low (abstract, hard-to-read components) | High (real, meaningful parts) | High (topics are clear word distributions) |
+| **Short text performance** | Weak (needs enough co-occurrence signal) | Moderate (works but noisy on very short text) | Weak (sparsity hurts — better suited to longer documents) |
+| **Must specify # topics?** | Yes (choose k) | Yes (choose r) | Yes (choose k) |
+| **Popular library** | `scikit-learn` (TruncatedSVD), `gensim` | `scikit-learn` (NMF) | `gensim` (LdaModel), `scikit-learn` (LatentDirichletAllocation) |
