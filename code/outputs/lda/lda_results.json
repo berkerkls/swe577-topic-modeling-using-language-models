@@ -1,0 +1,160 @@
+{
+  "model": "LDA",
+  "dataset": "20 Newsgroups",
+  "num_documents": 18846,
+  "num_topics": 10,
+  "training_time_seconds": 48.62,
+  "timestamp": "2026-05-15T14:30:35.751496",
+  "topics": [
+    {
+      "topic_id": 0,
+      "top_words": [
+        "just",
+        "don",
+        "like",
+        "good",
+        "think",
+        "know",
+        "time",
+        "ve",
+        "really",
+        "going"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "top_words": [
+        "drive",
+        "dos",
+        "card",
+        "use",
+        "windows",
+        "thanks",
+        "disk",
+        "know",
+        "scsi",
+        "does"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "top_words": [
+        "god",
+        "people",
+        "jesus",
+        "said",
+        "did",
+        "know",
+        "think",
+        "church",
+        "christ",
+        "mr"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "top_words": [
+        "file",
+        "edu",
+        "image",
+        "use",
+        "com",
+        "program",
+        "ftp",
+        "files",
+        "available",
+        "windows"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "top_words": [
+        "armenian",
+        "people",
+        "gun",
+        "israel",
+        "armenians",
+        "war",
+        "jews",
+        "turkish",
+        "government",
+        "db"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "top_words": [
+        "space",
+        "research",
+        "new",
+        "information",
+        "university",
+        "nasa",
+        "1993",
+        "health",
+        "earth",
+        "data"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "top_words": [
+        "people",
+        "don",
+        "does",
+        "think",
+        "just",
+        "like",
+        "know",
+        "say",
+        "believe",
+        "way"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "top_words": [
+        "ax",
+        "max",
+        "g9v",
+        "b8f",
+        "a86",
+        "pl",
+        "145",
+        "1d9",
+        "34u",
+        "1t"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "top_words": [
+        "key",
+        "government",
+        "use",
+        "law",
+        "encryption",
+        "public",
+        "chip",
+        "clipper",
+        "security",
+        "keys"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "top_words": [
+        "00",
+        "10",
+        "game",
+        "25",
+        "team",
+        "20",
+        "11",
+        "12",
+        "15",
+        "games"
+      ]
+    }
+  ]
+}
