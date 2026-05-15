@@ -1,0 +1,6 @@
+scikit-learn
+bertopic
+pydantic-ai
+pyLDAvis
+matplotlib
+pandas
