@@ -1,0 +1,2457 @@
+{
+  "model": "Prompt-based (Gemini 2.5 Flash)",
+  "framework": "PydanticAI",
+  "dataset": "20 Newsgroups (stratified sample)",
+  "sampling_strategy": "Stratified - equal samples per category",
+  "samples_per_category": 10,
+  "num_documents_processed": 200,
+  "total_dataset_size": 18846,
+  "max_chars_per_doc": 5000,
+  "random_seed": 42,
+  "processing_time_seconds": 476.88,
+  "avg_time_per_doc": 2.38,
+  "timestamp": "2026-05-15T15:48:07.473306",
+  "results": [
+    {
+      "doc_index": 6094,
+      "topic": "Christian Discussion Group",
+      "confidence": 0.85,
+      "keywords": [
+        "christian",
+        "discussion",
+        "faith"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 18774,
+      "topic": "Amateur Radio Literature",
+      "confidence": 0.9,
+      "keywords": [
+        "ARRL Handbook",
+        "Radio Amateur",
+        "Solid State Design"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 12611,
+      "topic": "Automotive Model Inquiry",
+      "confidence": 0.75,
+      "keywords": [
+        "850",
+        "750iL",
+        "835"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 12123,
+      "topic": "Automotive Mailing List Setup",
+      "confidence": 0.95,
+      "keywords": [
+        "mailing list",
+        "automotive",
+        "sysadmin"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 18673,
+      "topic": "Texas Concealed Carry",
+      "confidence": 0.75,
+      "keywords": [
+        "bill",
+        "Texas",
+        "weapons"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 14676,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 12192,
+      "topic": "Allergy Shot Effectiveness",
+      "confidence": 0.95,
+      "keywords": [
+        "allergy",
+        "shots",
+        "symptoms"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 16402,
+      "topic": "Personal Communication",
+      "confidence": 0.5,
+      "keywords": [
+        "surname",
+        "spelled",
+        "Cheers"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 15876,
+      "topic": "Political Hypocrisy and Double Standards",
+      "confidence": 0.95,
+      "keywords": [
+        "Clinton",
+        "BATF",
+        "hypocrisy"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 4212,
+      "topic": "Historical Jewish-Arab Conflict",
+      "confidence": 0.75,
+      "keywords": [
+        "Jewish",
+        "Israel",
+        "Arabs"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 10203,
+      "topic": "Catholic Doctrine Analysis",
+      "confidence": 0.85,
+      "keywords": [
+        "predestination",
+        "free will",
+        "Catholic"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 12252,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 3848,
+      "topic": "Irrelevant Textual Data",
+      "confidence": 0.1,
+      "keywords": [
+        "ISBN",
+        "0-13-747270-6"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 9064,
+      "topic": "SCSI Bus Issues",
+      "confidence": 0.9,
+      "keywords": [
+        "SCSI",
+        "IIfx",
+        "terminator"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 7410,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 9674,
+      "topic": "US Gun Control Legislation",
+      "confidence": 0.85,
+      "keywords": [
+        "Brady Bill",
+        "Senate",
+        "House"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 17327,
+      "topic": "Cooking and Internet Use",
+      "confidence": 0.75,
+      "keywords": [
+        "cook",
+        "net",
+        "additives"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 10577,
+      "topic": "Israeli Legal and Social Structure",
+      "confidence": 0.93,
+      "keywords": [
+        "Israeli citizen",
+        "law",
+        "religious"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 16034,
+      "topic": "Motorcycle Shaft Effect",
+      "confidence": 0.85,
+      "keywords": [
+        "shaft",
+        "fly-wheels",
+        "throttle"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 17972,
+      "topic": "DES Encryption Source",
+      "confidence": 0.85,
+      "keywords": [
+        "DES",
+        "encryption",
+        "source code"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 12604,
+      "topic": "Motorcycle Leaning Technique",
+      "confidence": 0.75,
+      "keywords": [
+        "countersteering",
+        "leaning",
+        "bike"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 13694,
+      "topic": "Legislative Bill Status",
+      "confidence": 0.75,
+      "keywords": [
+        "bill",
+        "reading",
+        "rep"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 8553,
+      "topic": "Gun Rights and Self-Defense",
+      "confidence": 0.95,
+      "keywords": [
+        "self-defense",
+        "government",
+        "gun"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 11645,
+      "topic": "Alumni Directory Record",
+      "confidence": 0.7,
+      "keywords": [
+        "Alumni",
+        "Directory",
+        "graduate"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 1637,
+      "topic": "Hardware Troubleshooting and Information",
+      "confidence": 0.9,
+      "keywords": [
+        "jumper",
+        "ISA",
+        "BALE"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 3899,
+      "topic": "Abuse of Power",
+      "confidence": 0.75,
+      "keywords": [
+        "oath",
+        "abused",
+        "powers"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 17336,
+      "topic": "Humor and Communication",
+      "confidence": 0.75,
+      "keywords": [
+        "joke",
+        "humour",
+        "joking"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 11355,
+      "topic": "Cult Leader Operations Analysis",
+      "confidence": 0.9,
+      "keywords": [
+        "Jesus",
+        "Koresh",
+        "Waco"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 427,
+      "topic": "NHL Coaching Rumors",
+      "confidence": 0.85,
+      "keywords": [
+        "Ranger",
+        "coach",
+        "Keenan"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 5613,
+      "topic": "Gamma Ray Burster Distance",
+      "confidence": 0.85,
+      "keywords": [
+        "Gamma Ray",
+        "distance",
+        "Oort cloud"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 9465,
+      "topic": "Software Licensing Education",
+      "confidence": 0.75,
+      "keywords": [
+        "software",
+        "educational",
+        "Excel"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 14394,
+      "topic": "Microcontroller Bootloader Solution",
+      "confidence": 0.95,
+      "keywords": [
+        "bootloader",
+        "E2PROM",
+        "51"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 5454,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 17840,
+      "topic": "Tube Preamplifier Sale",
+      "confidence": 0.95,
+      "keywords": [
+        "tube",
+        "pre-amp",
+        "Dynakit"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 18466,
+      "topic": "Corporate Communications Strategy",
+      "confidence": 0.75,
+      "keywords": [
+        "attack",
+        "Microsoft",
+        "response"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 15845,
+      "topic": "DIY Computer Accessories",
+      "confidence": 0.85,
+      "keywords": [
+        "PhoneNET",
+        "adapters",
+        "MacRecorder"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 84,
+      "topic": "Voicemail System Analysis",
+      "confidence": 0.75,
+      "keywords": [
+        "Voic Mail Box",
+        "feature",
+        "Home Office"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 10004,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 9802,
+      "topic": "Human Appetite Psychology",
+      "confidence": 0.75,
+      "keywords": [
+        "appetite",
+        "sex",
+        "restaurant"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 11962,
+      "topic": "Monitor Interference Troubleshooting",
+      "confidence": 0.9,
+      "keywords": [
+        "monitor",
+        "interference",
+        "Apple"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 17207,
+      "topic": "Energy Saving Measures",
+      "confidence": 0.85,
+      "keywords": [
+        "off",
+        "night",
+        "electricity"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 14500,
+      "topic": "Hockey Team Performance",
+      "confidence": 0.75,
+      "keywords": [
+        "Leafs",
+        "Philadelphia",
+        "team"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 11824,
+      "topic": "Unclear Statement",
+      "confidence": 0.4,
+      "keywords": [
+        "feet",
+        "line",
+        "draw"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 3720,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 1961,
+      "topic": "Music and Religion",
+      "confidence": 0.95,
+      "keywords": [
+        "religion",
+        "music",
+        "songs"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 16350,
+      "topic": "Email Address Inquiry",
+      "confidence": 0.85,
+      "keywords": [
+        "E-Mail",
+        "address",
+        "you"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 5801,
+      "topic": "Communication Skills Assessment",
+      "confidence": 0.75,
+      "keywords": [
+        "illiterate",
+        "write",
+        "sentences"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 2918,
+      "topic": "Subscription Request",
+      "confidence": 0.7,
+      "keywords": [
+        "subscribe",
+        "mailing",
+        "list"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 4746,
+      "topic": "Hardware Issue Diagnosis",
+      "confidence": 0.7,
+      "keywords": [
+        "Diamond",
+        "Stealth",
+        "VRAM"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 5572,
+      "topic": "Theological Free Will Debate",
+      "confidence": 0.85,
+      "keywords": [
+        "Lucifer",
+        "free will",
+        "JW"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 13847,
+      "topic": "Lactose Intolerance Biology",
+      "confidence": 0.95,
+      "keywords": [
+        "lactose",
+        "intestine",
+        "mammals"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 2778,
+      "topic": "Computer Fan Specifications",
+      "confidence": 0.95,
+      "keywords": [
+        "fans",
+        "120",
+        "computer"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 6156,
+      "topic": "Analog Multiplexer Design",
+      "confidence": 0.95,
+      "keywords": [
+        "multiplexer",
+        "analog",
+        "switch"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 16396,
+      "topic": "Color Space Conversion",
+      "confidence": 0.9,
+      "keywords": [
+        "YUV",
+        "RGB",
+        "clamping"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 510,
+      "topic": "Computer Graphics Reference",
+      "confidence": 0.85,
+      "keywords": [
+        "Computer Graphics",
+        "book",
+        "questions"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 14459,
+      "topic": "Interpersonal Conflict and History Debate",
+      "confidence": 0.75,
+      "keywords": [
+        "Armenians",
+        "Turkey",
+        "freedom of speech"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 15517,
+      "topic": "3D Graphics Job Search",
+      "confidence": 0.9,
+      "keywords": [
+        "3d",
+        "graphics",
+        "companies"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 10494,
+      "topic": "Computer Program Startup",
+      "confidence": 0.75,
+      "keywords": [
+        "ProgMan",
+        "hotkey",
+        "StartUp"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 12862,
+      "topic": "C++ GUI Toolkits",
+      "confidence": 0.9,
+      "keywords": [
+        "Motif++",
+        "View.h++",
+        "C++"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 1532,
+      "topic": "Government Surveillance Concerns",
+      "confidence": 0.9,
+      "keywords": [
+        "government",
+        "privacy",
+        "surveillance"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 15187,
+      "topic": "Argumentation and Sarcasm",
+      "confidence": 0.85,
+      "keywords": [
+        "argument",
+        "sarcasm",
+        "minimum wage"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 9472,
+      "topic": "Unclear Request",
+      "confidence": 0.3,
+      "keywords": [
+        "answer key",
+        "post",
+        "while"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 13259,
+      "topic": "Monitor Feature Comparison",
+      "confidence": 0.85,
+      "keywords": [
+        "AccuColor",
+        "bandwidth",
+        "trinitron tube"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 13129,
+      "topic": "Personal Inquiry",
+      "confidence": 0.6,
+      "keywords": [
+        "Jody",
+        "mind",
+        "particular"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 3916,
+      "topic": "Subscription Request",
+      "confidence": 0.7,
+      "keywords": [
+        "subscribe"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 8575,
+      "topic": "Used Keyboard Stands",
+      "confidence": 0.85,
+      "keywords": [
+        "keyboard",
+        "stand",
+        "selling"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 1856,
+      "topic": "Baseball Statistical Analysis",
+      "confidence": 0.9,
+      "keywords": [
+        "baseball",
+        "defense",
+        "pitching"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 15413,
+      "topic": "Academic Author Inquiry",
+      "confidence": 0.95,
+      "keywords": [
+        "author",
+        "email",
+        "papers"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 13836,
+      "topic": "Tire Performance and Weather",
+      "confidence": 0.95,
+      "keywords": [
+        "tires",
+        "weather",
+        "V4s"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 17087,
+      "topic": "Graphics Card Performance",
+      "confidence": 0.91,
+      "keywords": [
+        "card",
+        "drivers",
+        "RAM"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 4042,
+      "topic": "Survey Data Discrepancy",
+      "confidence": 0.85,
+      "keywords": [
+        "surveyed",
+        "homosexual",
+        "different"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 14259,
+      "topic": "Orchid Product Issue",
+      "confidence": 0.85,
+      "keywords": [
+        "Orchid",
+        "problem",
+        "tech support"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 17915,
+      "topic": "Language Barrier",
+      "confidence": 0.4,
+      "keywords": [
+        "language",
+        "sorry",
+        "talking"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 6523,
+      "topic": "Usenet Hierarchy Policy",
+      "confidence": 0.85,
+      "keywords": [
+        "alt.*",
+        "comp.*",
+        "newsgroups"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 4926,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 6759,
+      "topic": "Motorcycle Riding Advice",
+      "confidence": 0.9,
+      "keywords": [
+        "throttle",
+        "brake",
+        "riding"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 12341,
+      "topic": "MSG Controversy Debate",
+      "confidence": 0.85,
+      "keywords": [
+        "MSG",
+        "evidence",
+        "science"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 10748,
+      "topic": "Unresolved Argumentation",
+      "confidence": 0.75,
+      "keywords": [
+        "questions",
+        "statements",
+        "response"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 2026,
+      "topic": "NHL Player International Play",
+      "confidence": 0.9,
+      "keywords": [
+        "Oilers",
+        "playing",
+        "Canada"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 11073,
+      "topic": "Atheism vs Theism Morality",
+      "confidence": 0.9,
+      "keywords": [
+        "atheism",
+        "theist",
+        "genocide"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 10265,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 4196,
+      "topic": "Baseball Marketing Strategies",
+      "confidence": 0.85,
+      "keywords": [
+        "baseball",
+        "owners",
+        "fans"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 12360,
+      "topic": "Unclear Content Discussion",
+      "confidence": 0.3,
+      "keywords": [
+        "Bibo",
+        "Argic",
+        "cosar"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 3267,
+      "topic": "CS Gas Deployment",
+      "confidence": 0.85,
+      "keywords": [
+        "gas",
+        "canisters",
+        "building"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 8148,
+      "topic": "High Power Rocketry",
+      "confidence": 0.95,
+      "keywords": [
+        "rockets",
+        "engines",
+        "HPR"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 11406,
+      "topic": "Used Electronic Musical Instruments",
+      "confidence": 0.9,
+      "keywords": [
+        "synthesizer",
+        "guitar",
+        "drum"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 5939,
+      "topic": "Electronic Surveillance Policy",
+      "confidence": 0.85,
+      "keywords": [
+        "Clipper chip",
+        "eavesdrop",
+        "government"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 7023,
+      "topic": "Online Community Dynamics",
+      "confidence": 0.85,
+      "keywords": [
+        "group",
+        "mainstream",
+        "community"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 11074,
+      "topic": "Operating System Issues",
+      "confidence": 0.9,
+      "keywords": [
+        "DOS 6",
+        "protection faults",
+        "DOS 5"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 4728,
+      "topic": "Academic Article Search",
+      "confidence": 0.9,
+      "keywords": [
+        "article",
+        "X Resource",
+        "computer science"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 10928,
+      "topic": "Software Build Issues",
+      "confidence": 0.85,
+      "keywords": [
+        "build",
+        "exceptions",
+        "Windows"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 7490,
+      "topic": "Universal Time Receiver",
+      "confidence": 0.75,
+      "keywords": [
+        "receiver",
+        "oscillator",
+        "logistics"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 3147,
+      "topic": "Usenet Group Name",
+      "confidence": 0.7,
+      "keywords": [
+        "alt.sex.bondage",
+        "anti-semite",
+        "Usenet"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 2853,
+      "topic": "Sports Broadcast Comparison",
+      "confidence": 0.75,
+      "keywords": [
+        "baseball",
+        "game",
+        "clock"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 3684,
+      "topic": "Automotive Repair Advice",
+      "confidence": 0.95,
+      "keywords": [
+        "brake",
+        "clutch",
+        "carb"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 17165,
+      "topic": "US Fiscal Policy",
+      "confidence": 0.75,
+      "keywords": [
+        "taxes",
+        "revenue",
+        "deficits"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 7179,
+      "topic": "Agreement and Affirmation",
+      "confidence": 0.7,
+      "keywords": [
+        "Amen",
+        "agree",
+        "stated"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 5108,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 4563,
+      "topic": "Xenophobic Political Commentary",
+      "confidence": 0.75,
+      "keywords": [
+        "continent",
+        "Native",
+        "xenophobic"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 2913,
+      "topic": "Legal and Social Grievance",
+      "confidence": 0.78,
+      "keywords": [
+        "JUSTICE",
+        "Judge",
+        "ruling"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 1040,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 5047,
+      "topic": "Spelling and Geography Inquiry",
+      "confidence": 0.5,
+      "keywords": [
+        "spelling",
+        "Peugeot",
+        "N. America"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 14920,
+      "topic": "Social Commentary",
+      "confidence": 0.65,
+      "keywords": [
+        "offensive",
+        "women",
+        "common sense"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 1983,
+      "topic": "Theological Interpretation of Hell",
+      "confidence": 0.85,
+      "keywords": [
+        "hell",
+        "Jesus",
+        "symbolic"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 10830,
+      "topic": "Origins of Species",
+      "confidence": 0.75,
+      "keywords": [
+        "species",
+        "created",
+        "observed"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 13030,
+      "topic": "Biblical Interpretation Debate",
+      "confidence": 0.85,
+      "keywords": [
+        "Paul",
+        "Christians",
+        "Scripture"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 10912,
+      "topic": "Incomplete Inquiry",
+      "confidence": 0.3,
+      "keywords": [
+        "know",
+        "wanted",
+        "just"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 17424,
+      "topic": "Computer Hardware Upgrade",
+      "confidence": 0.95,
+      "keywords": [
+        "486",
+        "CDROM",
+        "SCSI"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 586,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 2472,
+      "topic": "Empty Input Analysis",
+      "confidence": 0.1,
+      "keywords": [],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 1588,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 17846,
+      "topic": "XView Image Performance",
+      "confidence": 0.95,
+      "keywords": [
+        "XPutImage",
+        "Sunview",
+        "XView"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 18369,
+      "topic": "Vintage Automotive Restoration",
+      "confidence": 0.9,
+      "keywords": [
+        "Checker",
+        "restoring",
+        "parts"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 8402,
+      "topic": "Mac Unix Disk Compatibility",
+      "confidence": 0.85,
+      "keywords": [
+        "Mac",
+        "Unix",
+        "disks"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 14522,
+      "topic": "Privacy Chip Debate",
+      "confidence": 0.95,
+      "keywords": [
+        "privacy",
+        "chip",
+        "wiretap"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 14707,
+      "topic": "Ahmadiyya Muslim Community Forum",
+      "confidence": 0.95,
+      "keywords": [
+        "Ahmadiyya",
+        "Muslim",
+        "religion"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 16985,
+      "topic": "Kirlian Photography Effect",
+      "confidence": 0.9,
+      "keywords": [
+        "Kirlian",
+        "static discharges",
+        "films"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 9734,
+      "topic": "Baseball Player Status",
+      "confidence": 0.75,
+      "keywords": [
+        "Mel Hall",
+        "season",
+        "Yankees"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 2810,
+      "topic": "Foreign Aid Policy",
+      "confidence": 0.7,
+      "keywords": [
+        "aid",
+        "Russia",
+        "conservatives"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 6534,
+      "topic": "Space Spacewalk Controversy",
+      "confidence": 0.85,
+      "keywords": [
+        "spacewalk",
+        "staged",
+        "Cold War"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 16438,
+      "topic": "Cryptographic Cipher Implementation",
+      "confidence": 0.95,
+      "keywords": [
+        "cipher",
+        "MD5",
+        "key"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 13855,
+      "topic": "User Survey Analysis",
+      "confidence": 0.9,
+      "keywords": [
+        "survey",
+        "users",
+        "rating"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 10640,
+      "topic": "Patent and Copyright Law",
+      "confidence": 0.85,
+      "keywords": [
+        "patent",
+        "copyright",
+        "law"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 5674,
+      "topic": "Error",
+      "confidence": 0.0,
+      "keywords": [],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 5621,
+      "topic": "Apple IIci Computer",
+      "confidence": 0.9,
+      "keywords": [
+        "IIci",
+        "expandable",
+        "System 6"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 10588,
+      "topic": "Firearms Regulation Debate",
+      "confidence": 0.75,
+      "keywords": [
+        "shotguns",
+        "guns",
+        "regulations"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 7804,
+      "topic": "Clipper Chip Controversy",
+      "confidence": 0.95,
+      "keywords": [
+        "Clipper chip",
+        "Secure Communications Technology",
+        "algorithm"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 4340,
+      "topic": "Lunar Base Funding",
+      "confidence": 0.89,
+      "keywords": [
+        "Lunar",
+        "funding",
+        "purpose"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 1881,
+      "topic": "Speculative Assertion",
+      "confidence": 0.5,
+      "keywords": [
+        "made",
+        "up",
+        "Perhaps"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 14305,
+      "topic": "Hockey Game Analysis",
+      "confidence": 0.85,
+      "keywords": [
+        "Philly",
+        "Leaf",
+        "hockey"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 6883,
+      "topic": "Baseball Player Evaluation",
+      "confidence": 0.9,
+      "keywords": [
+        "player",
+        "team",
+        "better"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 175,
+      "topic": "Software Compatibility Issue",
+      "confidence": 0.9,
+      "keywords": [
+        "Ami Pro",
+        "PCTools",
+        "fault"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 11661,
+      "topic": "Customer Service Complaint",
+      "confidence": 0.95,
+      "keywords": [
+        "modem",
+        "MidWest Micro",
+        "support"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 481,
+      "topic": "IRQ Sharing",
+      "confidence": 0.75,
+      "keywords": [
+        "IRQ",
+        "OS/2",
+        "share"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 2278,
+      "topic": "Sports Commentary Criticism",
+      "confidence": 0.75,
+      "keywords": [
+        "expert",
+        "games",
+        "armchair"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 10377,
+      "topic": "Theistic Objectivity and Indoctrination",
+      "confidence": 0.85,
+      "keywords": [
+        "theist",
+        "scriptures",
+        "superstition"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 7693,
+      "topic": "Religious Disagreement",
+      "confidence": 0.75,
+      "keywords": [
+        "Bible",
+        "verses",
+        "religion"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 4894,
+      "topic": "Ulf Samuelson Hockey Criticism",
+      "confidence": 0.98,
+      "keywords": [
+        "Ulf",
+        "hockey",
+        "coward"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 2294,
+      "topic": "Anti-Islamic Propaganda",
+      "confidence": 0.7,
+      "keywords": [
+        "Islamic",
+        "propaganda",
+        "article"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 8350,
+      "topic": "Computer Hardware Adaptation",
+      "confidence": 0.85,
+      "keywords": [
+        "monitor",
+        "VGA",
+        "Atari"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 18554,
+      "topic": "Subjective Value Perception",
+      "confidence": 0.75,
+      "keywords": [
+        "subjective",
+        "price",
+        "accept"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 2557,
+      "topic": "Privacy Valuation Discussion",
+      "confidence": 0.85,
+      "keywords": [
+        "privacy",
+        "law enforcement",
+        "estimate"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 11028,
+      "topic": "Contact Information Query",
+      "confidence": 0.7,
+      "keywords": [
+        "NuTek",
+        "email",
+        "address"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 12056,
+      "topic": "Mailing List Activity",
+      "confidence": 0.75,
+      "keywords": [
+        "group",
+        "traffic",
+        "mailing list"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 1205,
+      "topic": "Orbital Mechanics Theory",
+      "confidence": 0.95,
+      "keywords": [
+        "Mercury",
+        "orbit",
+        "relativity"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 7067,
+      "topic": "Software Compatibility Issues",
+      "confidence": 0.85,
+      "keywords": [
+        "OpenWindows",
+        "SunOS",
+        "MIT R5"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 11760,
+      "topic": "System Information Unavailable",
+      "confidence": 0.5,
+      "keywords": [
+        "system"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 12972,
+      "topic": "Automotive Reliability Comparison",
+      "confidence": 0.85,
+      "keywords": [
+        "Alfa",
+        "Reliablilty",
+        "mechanical"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 910,
+      "topic": "Migraine Medication Side Effects",
+      "confidence": 0.85,
+      "keywords": [
+        "Imitrex",
+        "headaches",
+        "chest pains"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 2752,
+      "topic": "Debate and Argumentation Critique",
+      "confidence": 0.92,
+      "keywords": [
+        "argument",
+        "apologize",
+        "criticized"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 9880,
+      "topic": "Social Issues and Gender",
+      "confidence": 0.75,
+      "keywords": [
+        "children",
+        "abuse",
+        "gays"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 2589,
+      "topic": "Societal Justice Critique",
+      "confidence": 0.75,
+      "keywords": [
+        "justice",
+        "revolution",
+        "Sophie's Choice"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 14733,
+      "topic": "VW Corrado VR6",
+      "confidence": 0.95,
+      "keywords": [
+        "VW",
+        "Corrado",
+        "VR6"
+      ],
+      "true_category": "rec.autos"
+    },
+    {
+      "doc_index": 1813,
+      "topic": "Sexual Orientation and Society",
+      "confidence": 0.85,
+      "keywords": [
+        "bi",
+        "gay",
+        "society"
+      ],
+      "true_category": "talk.politics.misc"
+    },
+    {
+      "doc_index": 17136,
+      "topic": "Text Analysis Request",
+      "confidence": 0.5,
+      "keywords": [
+        "analyze",
+        "text",
+        "request"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 13169,
+      "topic": "Cooling Tower Mechanics",
+      "confidence": 0.95,
+      "keywords": [
+        "towers",
+        "water",
+        "draft"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 4813,
+      "topic": "Militia Regulation Debate",
+      "confidence": 0.95,
+      "keywords": [
+        "militia",
+        "regulated",
+        "Federalist"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 16819,
+      "topic": "Usenet Group Discussion",
+      "confidence": 0.5,
+      "keywords": [
+        "newsgroup",
+        "graphic design",
+        "macs"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 11398,
+      "topic": "Automobile Sale Listing",
+      "confidence": 0.95,
+      "keywords": [
+        "MAZDA",
+        "sale",
+        "inspection"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 4281,
+      "topic": "Computer Hardware Upgrade",
+      "confidence": 0.95,
+      "keywords": [
+        "accelerator",
+        "upgrade",
+        "Q700"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 11192,
+      "topic": "Nuclear Waste Research",
+      "confidence": 0.75,
+      "keywords": [
+        "nuclear waste",
+        "research",
+        "feasibility"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 506,
+      "topic": "Monitor Purchase Advice",
+      "confidence": 0.9,
+      "keywords": [
+        "monitor",
+        "MAG",
+        "NANAO"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 1035,
+      "topic": "3D Modeling Software",
+      "confidence": 0.85,
+      "keywords": [
+        "Imagine",
+        "Amiga",
+        "speed"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 4758,
+      "topic": "World War 2",
+      "confidence": 0.85,
+      "keywords": [
+        "Bosnians",
+        "Nazis",
+        "Serbians"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 4537,
+      "topic": "Political Appointment Dynamics",
+      "confidence": 0.75,
+      "keywords": [
+        "political",
+        "appointments",
+        "politics"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 13526,
+      "topic": "State Militia Systems",
+      "confidence": 0.9,
+      "keywords": [
+        "Militia",
+        "State Guard",
+        "unorganized Militia"
+      ],
+      "true_category": "talk.politics.guns"
+    },
+    {
+      "doc_index": 992,
+      "topic": "Sports Betting Predictions",
+      "confidence": 0.85,
+      "keywords": [
+        "prediction",
+        "Rockies",
+        "Rangers"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 1541,
+      "topic": "MS DOS FAQ Creation",
+      "confidence": 0.9,
+      "keywords": [
+        "MS DOS",
+        "FAQ",
+        "questions"
+      ],
+      "true_category": "comp.sys.ibm.pc.hardware"
+    },
+    {
+      "doc_index": 9252,
+      "topic": "Locksmithing and Security Systems",
+      "confidence": 0.85,
+      "keywords": [
+        "lock",
+        "key",
+        "security"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 1383,
+      "topic": "Kirlian Photography",
+      "confidence": 0.85,
+      "keywords": [
+        "Kirlian",
+        "photography",
+        "World magazine"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 6597,
+      "topic": "Motorcycle Road Trip",
+      "confidence": 0.95,
+      "keywords": [
+        "interstates",
+        "trip",
+        "Motorcyclists"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 13335,
+      "topic": "Humor and Policy Objections",
+      "confidence": 0.55,
+      "keywords": [
+        "home",
+        "policy",
+        "alternative"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 5348,
+      "topic": "Hockey Game Tradition",
+      "confidence": 0.85,
+      "keywords": [
+        "octopus",
+        "ice",
+        "Spokane"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 4564,
+      "topic": "JPEG Compression Algorithms",
+      "confidence": 0.85,
+      "keywords": [
+        "JPEG",
+        "code",
+        "algorithms"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 18620,
+      "topic": "Koresh Legal Issues",
+      "confidence": 0.7,
+      "keywords": [
+        "Koresh",
+        "Feds",
+        "tax evasion"
+      ],
+      "true_category": "alt.atheism"
+    },
+    {
+      "doc_index": 10599,
+      "topic": "Musical Instrument Sale",
+      "confidence": 0.9,
+      "keywords": [
+        "Roland D-50",
+        "patches",
+        "shipping"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 4782,
+      "topic": "Atheist Invocation",
+      "confidence": 0.5,
+      "keywords": [
+        "atheist",
+        "listening",
+        "roommate"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 18478,
+      "topic": "Space Station Redesign",
+      "confidence": 0.9,
+      "keywords": [
+        "space station",
+        "resigned",
+        "redesign"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 14051,
+      "topic": "Advertising and Space",
+      "confidence": 0.75,
+      "keywords": [
+        "Coca Cola",
+        "moon",
+        "ad"
+      ],
+      "true_category": "sci.space"
+    },
+    {
+      "doc_index": 2822,
+      "topic": "Software Installation Issues",
+      "confidence": 0.85,
+      "keywords": [
+        "ZIP",
+        "install",
+        "floppies"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 6436,
+      "topic": "Motorcycle Coolant Selection",
+      "confidence": 0.9,
+      "keywords": [
+        "coolant",
+        "motorcycles",
+        "aluminum-safe"
+      ],
+      "true_category": "rec.motorcycles"
+    },
+    {
+      "doc_index": 14967,
+      "topic": "Vintage Computer Battery",
+      "confidence": 0.95,
+      "keywords": [
+        "lithium",
+        "battery",
+        "Mac"
+      ],
+      "true_category": "comp.sys.mac.hardware"
+    },
+    {
+      "doc_index": 10009,
+      "topic": "Cult and Religion Origins",
+      "confidence": 0.85,
+      "keywords": [
+        "faith",
+        "reason",
+        "cults"
+      ],
+      "true_category": "talk.religion.misc"
+    },
+    {
+      "doc_index": 14998,
+      "topic": "Trading Card Sale",
+      "confidence": 0.95,
+      "keywords": [
+        "cards",
+        "bid",
+        "Desert Storm"
+      ],
+      "true_category": "misc.forsale"
+    },
+    {
+      "doc_index": 14595,
+      "topic": "Bitmap Image Creation",
+      "confidence": 0.95,
+      "keywords": [
+        "bitmap",
+        "size",
+        "width"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 2644,
+      "topic": "Baseball Trivia Analysis",
+      "confidence": 0.85,
+      "keywords": [
+        "team",
+        "saves",
+        "trivia"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 3939,
+      "topic": "Teacher Immunization Development",
+      "confidence": 0.75,
+      "keywords": [
+        "teachers",
+        "immunities",
+        "pathogens"
+      ],
+      "true_category": "sci.med"
+    },
+    {
+      "doc_index": 7773,
+      "topic": "Baseball Player Achievements",
+      "confidence": 0.9,
+      "keywords": [
+        "Johnny Mize",
+        "HR",
+        "record"
+      ],
+      "true_category": "rec.sport.baseball"
+    },
+    {
+      "doc_index": 14738,
+      "topic": "Unclear Content",
+      "confidence": 0.1,
+      "keywords": [
+        "come",
+        "on",
+        "Josh"
+      ],
+      "true_category": "talk.politics.mideast"
+    },
+    {
+      "doc_index": 6282,
+      "topic": "Graph Visualization Software",
+      "confidence": 0.9,
+      "keywords": [
+        "graph",
+        "nodes",
+        "links"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 5005,
+      "topic": "German Postal Service",
+      "confidence": 0.75,
+      "keywords": [
+        "POST",
+        "deutsche Bundespost",
+        "phone system"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 16121,
+      "topic": "VOGL Graphics Library",
+      "confidence": 0.85,
+      "keywords": [
+        "VOGL",
+        "IBM-PC",
+        "MS-Fortran"
+      ],
+      "true_category": "comp.graphics"
+    },
+    {
+      "doc_index": 10951,
+      "topic": "Media Plurality Discussion",
+      "confidence": 0.85,
+      "keywords": [
+        "media",
+        "publications",
+        "informative"
+      ],
+      "true_category": "sci.crypt"
+    },
+    {
+      "doc_index": 14267,
+      "topic": "Biblical Interpretation Exegesis",
+      "confidence": 0.85,
+      "keywords": [
+        "Scripture",
+        "interpretation",
+        "inspired"
+      ],
+      "true_category": "soc.religion.christian"
+    },
+    {
+      "doc_index": 10903,
+      "topic": "Text Analysis Request",
+      "confidence": 0.5,
+      "keywords": [
+        "text",
+        "analyze",
+        "request"
+      ],
+      "true_category": "comp.os.ms-windows.misc"
+    },
+    {
+      "doc_index": 12473,
+      "topic": "Interpersonal Conflict Discussion",
+      "confidence": 0.75,
+      "keywords": [
+        "dorks",
+        "Minnesota",
+        "Leafs"
+      ],
+      "true_category": "rec.sport.hockey"
+    },
+    {
+      "doc_index": 12912,
+      "topic": "X Window System Debugging",
+      "confidence": 0.95,
+      "keywords": [
+        "X windows",
+        "SGI",
+        "xdm"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 15273,
+      "topic": "Electronic Timer Circuit Design",
+      "confidence": 0.95,
+      "keywords": [
+        "circuit",
+        "battery",
+        "heater"
+      ],
+      "true_category": "sci.electronics"
+    },
+    {
+      "doc_index": 8424,
+      "topic": "X-Terminal Network Configuration",
+      "confidence": 0.95,
+      "keywords": [
+        "X-Terminal",
+        "TCP/IP",
+        "access control list"
+      ],
+      "true_category": "comp.windows.x"
+    },
+    {
+      "doc_index": 11497,
+      "topic": "Fishing Injury Recovery",
+      "confidence": 0.85,
+      "keywords": [
+        "fisherman",
+        "rib",
+        "back"
+      ],
+      "true_category": "sci.med"
+    }
+  ],
+  "category_stats": {
+    "soc.religion.christian": {
+      "count": 10,
+      "predictions": [
+        "Christian Discussion Group",
+        "Catholic Doctrine Analysis",
+        "Error",
+        "Music and Religion",
+        "Theological Interpretation of Hell",
+        "Biblical Interpretation Debate",
+        "Ahmadiyya Muslim Community Forum",
+        "Text Analysis Request",
+        "Atheist Invocation",
+        "Biblical Interpretation Exegesis"
+      ]
+    },
+    "sci.electronics": {
+      "count": 10,
+      "predictions": [
+        "Amateur Radio Literature",
+        "Irrelevant Textual Data",
+        "Microcontroller Bootloader Solution",
+        "Computer Fan Specifications",
+        "Analog Multiplexer Design",
+        "Universal Time Receiver",
+        "Cooling Tower Mechanics",
+        "Software Installation Issues",
+        "German Postal Service",
+        "Electronic Timer Circuit Design"
+      ]
+    },
+    "rec.autos": {
+      "count": 10,
+      "predictions": [
+        "Automotive Model Inquiry",
+        "Automotive Mailing List Setup",
+        "Tire Performance and Weather",
+        "Automotive Repair Advice",
+        "Spelling and Geography Inquiry",
+        "Incomplete Inquiry",
+        "Error",
+        "Vintage Automotive Restoration",
+        "Automotive Reliability Comparison",
+        "VW Corrado VR6"
+      ]
+    },
+    "talk.politics.guns": {
+      "count": 10,
+      "predictions": [
+        "Texas Concealed Carry",
+        "US Gun Control Legislation",
+        "Legislative Bill Status",
+        "Gun Rights and Self-Defense",
+        "Communication Skills Assessment",
+        "CS Gas Deployment",
+        "Usenet Group Name",
+        "Firearms Regulation Debate",
+        "Militia Regulation Debate",
+        "State Militia Systems"
+      ]
+    },
+    "rec.sport.baseball": {
+      "count": 10,
+      "predictions": [
+        "Error",
+        "Error",
+        "Email Address Inquiry",
+        "Baseball Statistical Analysis",
+        "Baseball Marketing Strategies",
+        "Baseball Player Status",
+        "Baseball Player Evaluation",
+        "Sports Betting Predictions",
+        "Baseball Trivia Analysis",
+        "Baseball Player Achievements"
+      ]
+    },
+    "sci.med": {
+      "count": 10,
+      "predictions": [
+        "Allergy Shot Effectiveness",
+        "Error",
+        "Cooking and Internet Use",
+        "Lactose Intolerance Biology",
+        "MSG Controversy Debate",
+        "Kirlian Photography Effect",
+        "Migraine Medication Side Effects",
+        "Kirlian Photography",
+        "Teacher Immunization Development",
+        "Fishing Injury Recovery"
+      ]
+    },
+    "alt.atheism": {
+      "count": 10,
+      "predictions": [
+        "Personal Communication",
+        "Theological Free Will Debate",
+        "Unclear Request",
+        "Atheism vs Theism Morality",
+        "Online Community Dynamics",
+        "Agreement and Affirmation",
+        "Error",
+        "Speculative Assertion",
+        "Anti-Islamic Propaganda",
+        "Koresh Legal Issues"
+      ]
+    },
+    "talk.politics.misc": {
+      "count": 10,
+      "predictions": [
+        "Political Hypocrisy and Double Standards",
+        "Abuse of Power",
+        "Human Appetite Psychology",
+        "Argumentation and Sarcasm",
+        "Survey Data Discrepancy",
+        "Unresolved Argumentation",
+        "US Fiscal Policy",
+        "Foreign Aid Policy",
+        "Social Issues and Gender",
+        "Sexual Orientation and Society"
+      ]
+    },
+    "talk.politics.mideast": {
+      "count": 10,
+      "predictions": [
+        "Historical Jewish-Arab Conflict",
+        "Israeli Legal and Social Structure",
+        "Alumni Directory Record",
+        "Interpersonal Conflict and History Debate",
+        "Unclear Content Discussion",
+        "Error",
+        "World War 2",
+        "Political Appointment Dynamics",
+        "Humor and Policy Objections",
+        "Unclear Content"
+      ]
+    },
+    "comp.sys.mac.hardware": {
+      "count": 10,
+      "predictions": [
+        "SCSI Bus Issues",
+        "DIY Computer Accessories",
+        "Voicemail System Analysis",
+        "Monitor Interference Troubleshooting",
+        "Energy Saving Measures",
+        "Mac Unix Disk Compatibility",
+        "Apple IIci Computer",
+        "Contact Information Query",
+        "Computer Hardware Upgrade",
+        "Vintage Computer Battery"
+      ]
+    },
+    "rec.motorcycles": {
+      "count": 10,
+      "predictions": [
+        "Motorcycle Shaft Effect",
+        "Motorcycle Leaning Technique",
+        "Unclear Statement",
+        "Error",
+        "Personal Inquiry",
+        "Error",
+        "Motorcycle Riding Advice",
+        "Legal and Social Grievance",
+        "Motorcycle Road Trip",
+        "Motorcycle Coolant Selection"
+      ]
+    },
+    "sci.crypt": {
+      "count": 10,
+      "predictions": [
+        "DES Encryption Source",
+        "Government Surveillance Concerns",
+        "Electronic Surveillance Policy",
+        "Privacy Chip Debate",
+        "Cryptographic Cipher Implementation",
+        "Patent and Copyright Law",
+        "Clipper Chip Controversy",
+        "Privacy Valuation Discussion",
+        "Locksmithing and Security Systems",
+        "Media Plurality Discussion"
+      ]
+    },
+    "comp.sys.ibm.pc.hardware": {
+      "count": 10,
+      "predictions": [
+        "Hardware Troubleshooting and Information",
+        "Monitor Feature Comparison",
+        "Orchid Product Issue",
+        "Software Build Issues",
+        "Computer Hardware Upgrade",
+        "Customer Service Complaint",
+        "IRQ Sharing",
+        "Computer Hardware Adaptation",
+        "Monitor Purchase Advice",
+        "MS DOS FAQ Creation"
+      ]
+    },
+    "sci.space": {
+      "count": 10,
+      "predictions": [
+        "Humor and Communication",
+        "Gamma Ray Burster Distance",
+        "Language Barrier",
+        "High Power Rocketry",
+        "Space Spacewalk Controversy",
+        "Lunar Base Funding",
+        "Orbital Mechanics Theory",
+        "Nuclear Waste Research",
+        "Space Station Redesign",
+        "Advertising and Space"
+      ]
+    },
+    "talk.religion.misc": {
+      "count": 10,
+      "predictions": [
+        "Cult Leader Operations Analysis",
+        "Error",
+        "Origins of Species",
+        "Empty Input Analysis",
+        "Theistic Objectivity and Indoctrination",
+        "Religious Disagreement",
+        "Subjective Value Perception",
+        "Debate and Argumentation Critique",
+        "Societal Justice Critique",
+        "Cult and Religion Origins"
+      ]
+    },
+    "rec.sport.hockey": {
+      "count": 10,
+      "predictions": [
+        "NHL Coaching Rumors",
+        "Hockey Team Performance",
+        "NHL Player International Play",
+        "Sports Broadcast Comparison",
+        "Xenophobic Political Commentary",
+        "Hockey Game Analysis",
+        "Sports Commentary Criticism",
+        "Ulf Samuelson Hockey Criticism",
+        "Hockey Game Tradition",
+        "Interpersonal Conflict Discussion"
+      ]
+    },
+    "comp.os.ms-windows.misc": {
+      "count": 10,
+      "predictions": [
+        "Software Licensing Education",
+        "Corporate Communications Strategy",
+        "Hardware Issue Diagnosis",
+        "Computer Program Startup",
+        "Graphics Card Performance",
+        "User Survey Analysis",
+        "Software Compatibility Issue",
+        "System Information Unavailable",
+        "Bitmap Image Creation",
+        "Text Analysis Request"
+      ]
+    },
+    "misc.forsale": {
+      "count": 10,
+      "predictions": [
+        "Error",
+        "Tube Preamplifier Sale",
+        "Used Keyboard Stands",
+        "Used Electronic Musical Instruments",
+        "Operating System Issues",
+        "Error",
+        "Social Commentary",
+        "Automobile Sale Listing",
+        "Musical Instrument Sale",
+        "Trading Card Sale"
+      ]
+    },
+    "comp.windows.x": {
+      "count": 10,
+      "predictions": [
+        "Subscription Request",
+        "C++ GUI Toolkits",
+        "Subscription Request",
+        "Error",
+        "Academic Article Search",
+        "XView Image Performance",
+        "Mailing List Activity",
+        "Software Compatibility Issues",
+        "X Window System Debugging",
+        "X-Terminal Network Configuration"
+      ]
+    },
+    "comp.graphics": {
+      "count": 10,
+      "predictions": [
+        "Color Space Conversion",
+        "Computer Graphics Reference",
+        "3D Graphics Job Search",
+        "Academic Author Inquiry",
+        "Usenet Hierarchy Policy",
+        "Usenet Group Discussion",
+        "3D Modeling Software",
+        "JPEG Compression Algorithms",
+        "Graph Visualization Software",
+        "VOGL Graphics Library"
+      ]
+    }
+  }
+}

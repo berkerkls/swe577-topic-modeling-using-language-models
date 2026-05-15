@@ -1,0 +1,24 @@
+============================================================
+LDA Topic Modeling Results
+============================================================
+
+Dataset: 20 Newsgroups
+Documents: 18846
+Topics: 10
+Training time: 48.62 seconds
+Timestamp: 2026-05-15 14:30:35
+
+------------------------------------------------------------
+TOPICS
+------------------------------------------------------------
+
+Topic 0: just, don, like, good, think, know, time, ve, really, going
+Topic 1: drive, dos, card, use, windows, thanks, disk, know, scsi, does
+Topic 2: god, people, jesus, said, did, know, think, church, christ, mr
+Topic 3: file, edu, image, use, com, program, ftp, files, available, windows
+Topic 4: armenian, people, gun, israel, armenians, war, jews, turkish, government, db
+Topic 5: space, research, new, information, university, nasa, 1993, health, earth, data
+Topic 6: people, don, does, think, just, like, know, say, believe, way
+Topic 7: ax, max, g9v, b8f, a86, pl, 145, 1d9, 34u, 1t
+Topic 8: key, government, use, law, encryption, public, chip, clipper, security, keys
+Topic 9: 00, 10, game, 25, team, 20, 11, 12, 15, games
