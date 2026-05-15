@@ -1,0 +1,23 @@
+============================================================
+BERTopic Topic Modeling Results
+============================================================
+
+Dataset: 20 Newsgroups
+Documents: 18846
+Topics: 9
+Training time: 269.92 seconds
+Timestamp: 2026-05-15 14:55:23
+
+------------------------------------------------------------
+TOPICS
+------------------------------------------------------------
+
+Topic 0 (3606 docs): the, to, and, is, for, it, of, in, you, with
+Topic 1 (2849 docs): the, of, to, and, that, in, is, it, you, not
+Topic 2 (1829 docs): the, to, in, and, he, of, game, that, was, is
+Topic 3 (1743 docs): maxaxaxaxaxaxaxaxaxaxaxaxaxaxax, the, to, of, and, is, in, for, that, be
+Topic 4 (546 docs): the, of, to, and, is, in, it, that, for, this
+Topic 5 (459 docs): the, of, to, and, is, in, that, for, be, it
+Topic 6 (397 docs): the, to, and, you, my, of, it, in, on, that
+Topic 7 (138 docs): the, battery, is, to, and, it, in, on, of, ground
+Topic 8 (79 docs): the, kirlian, photography, to, of, is, it, in, and, uv

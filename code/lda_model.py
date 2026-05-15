@@ -4,17 +4,17 @@ data = load_data()
 docs = data['docs']
 
 
-print(f"Toplam doküman sayısı: {len(docs)}")  # Toplam doküman sayısı: 18846
+print(f"Total number of documents: {len(docs)}")  # Total number of documents: 18846
 
 # bag of words
 
 from sklearn.feature_extraction.text import CountVectorizer
 
 vectorizer = CountVectorizer(
-    max_df=0.95,  # En fazla %95 dokümanda geçen kelimeler
-    min_df=2,  # En az 2 dokümanda geçen kelimeler
-    stop_words='english',  # İngilizce stop words'leri kaldır
-    max_features=5000 # En sık kullanılan 1000 kelime
+    max_df=0.95,  # words appearing in at most 95% of documents
+    min_df=2,  # words appearing in at least 2 documents
+    stop_words='english',  # remove English stop words
+    max_features=5000 # top 5000 most frequent words
     )  
 
 dtm = vectorizer.fit_transform(docs)
@@ -31,7 +31,7 @@ lda = LatentDirichletAllocation(n_components=10, random_state=42,max_iter=20)
 lda.fit(dtm)
 training_time = time.time() - start
 
-# lda topicleri
+# lda topics
 
 feature_names = vectorizer.get_feature_names_out()
 topics = []
@@ -73,7 +73,7 @@ with open("outputs/lda/lda_results.txt", "w") as f:
         f.write(f"Topic {t['topic_id']}: {', '.join(t['top_words'])}\n")
 
 
-print(f"\n✓ Sonuçlar kaydedildi:")
+print(f"\n✓ Results saved:")
 print(f"  - outputs/lda/lda_results.json")
 print(f"  - outputs/lda/lda_results.txt")
-print(f"\nSüre: {training_time:.2f} sn")    
+print(f"\nDuration: {training_time:.2f} s")

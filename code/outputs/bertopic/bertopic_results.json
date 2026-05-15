@@ -1,0 +1,154 @@
+{
+  "model": "BERTopic",
+  "dataset": "20 Newsgroups",
+  "num_documents": 18846,
+  "num_topics": 9,
+  "training_time_seconds": 269.92,
+  "timestamp": "2026-05-15T14:55:23.050147",
+  "topics": [
+    {
+      "topic_id": 0,
+      "top_words": [
+        "the",
+        "to",
+        "and",
+        "is",
+        "for",
+        "it",
+        "of",
+        "in",
+        "you",
+        "with"
+      ],
+      "count": 3606
+    },
+    {
+      "topic_id": 1,
+      "top_words": [
+        "the",
+        "of",
+        "to",
+        "and",
+        "that",
+        "in",
+        "is",
+        "it",
+        "you",
+        "not"
+      ],
+      "count": 2849
+    },
+    {
+      "topic_id": 2,
+      "top_words": [
+        "the",
+        "to",
+        "in",
+        "and",
+        "he",
+        "of",
+        "game",
+        "that",
+        "was",
+        "is"
+      ],
+      "count": 1829
+    },
+    {
+      "topic_id": 3,
+      "top_words": [
+        "maxaxaxaxaxaxaxaxaxaxaxaxaxaxax",
+        "the",
+        "to",
+        "of",
+        "and",
+        "is",
+        "in",
+        "for",
+        "that",
+        "be"
+      ],
+      "count": 1743
+    },
+    {
+      "topic_id": 4,
+      "top_words": [
+        "the",
+        "of",
+        "to",
+        "and",
+        "is",
+        "in",
+        "it",
+        "that",
+        "for",
+        "this"
+      ],
+      "count": 546
+    },
+    {
+      "topic_id": 5,
+      "top_words": [
+        "the",
+        "of",
+        "to",
+        "and",
+        "is",
+        "in",
+        "that",
+        "for",
+        "be",
+        "it"
+      ],
+      "count": 459
+    },
+    {
+      "topic_id": 6,
+      "top_words": [
+        "the",
+        "to",
+        "and",
+        "you",
+        "my",
+        "of",
+        "it",
+        "in",
+        "on",
+        "that"
+      ],
+      "count": 397
+    },
+    {
+      "topic_id": 7,
+      "top_words": [
+        "the",
+        "battery",
+        "is",
+        "to",
+        "and",
+        "it",
+        "in",
+        "on",
+        "of",
+        "ground"
+      ],
+      "count": 138
+    },
+    {
+      "topic_id": 8,
+      "top_words": [
+        "the",
+        "kirlian",
+        "photography",
+        "to",
+        "of",
+        "is",
+        "it",
+        "in",
+        "and",
+        "uv"
+      ],
+      "count": 79
+    }
+  ]
+}

@@ -3,8 +3,8 @@ from sklearn.datasets import fetch_20newsgroups
 import pickle
 
 def load_and_save():
-    """20newsgroups Dataset'i indir ve diske kaydet"""
-    print("Dataset indiriliyor...")
+    """Download the 20newsgroups dataset and save it to disk"""
+    print("Downloading dataset...")
     newsgroups = fetch_20newsgroups(
         subset='all',
         remove=('headers', 'footers', 'quotes')
@@ -19,12 +19,12 @@ def load_and_save():
     with open('data/data.pkl', 'wb') as f:
         pickle.dump(data, f)
 
-    print(f"Kaydedildi: {len(data['docs'])} doküman")
+    print(f"Saved: {len(data['docs'])} documents")
     return data
 
 
 def load_data():
-    """Diskten hızlıca yükle"""
+    """Quickly load from disk"""
     with open('data/data.pkl', 'rb') as f:
         return pickle.load(f)
 
