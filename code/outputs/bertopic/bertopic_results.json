@@ -3,152 +3,152 @@
   "dataset": "20 Newsgroups",
   "num_documents": 18846,
   "num_topics": 9,
-  "training_time_seconds": 269.92,
-  "timestamp": "2026-05-15T14:55:23.050147",
+  "training_time_seconds": 263.16,
+  "timestamp": "2026-05-16T14:55:33.131016",
   "topics": [
     {
       "topic_id": 0,
       "top_words": [
-        "the",
-        "to",
-        "and",
-        "is",
-        "for",
-        "it",
-        "of",
-        "in",
-        "you",
-        "with"
+        "use",
+        "windows",
+        "drive",
+        "software",
+        "db",
+        "card",
+        "like",
+        "does",
+        "thanks",
+        "file"
       ],
-      "count": 3606
+      "count": 3269
     },
     {
       "topic_id": 1,
       "top_words": [
-        "the",
-        "of",
-        "to",
-        "and",
-        "that",
-        "in",
-        "is",
-        "it",
-        "you",
-        "not"
+        "people",
+        "god",
+        "dont",
+        "think",
+        "said",
+        "just",
+        "know",
+        "did",
+        "say",
+        "like"
       ],
-      "count": 2849
+      "count": 3225
     },
     {
       "topic_id": 2,
       "top_words": [
-        "the",
-        "to",
-        "in",
-        "and",
-        "he",
-        "of",
         "game",
-        "that",
-        "was",
-        "is"
+        "team",
+        "games",
+        "year",
+        "players",
+        "season",
+        "hockey",
+        "play",
+        "win",
+        "league"
       ],
-      "count": 1829
+      "count": 2397
     },
     {
       "topic_id": 3,
       "top_words": [
-        "maxaxaxaxaxaxaxaxaxaxaxaxaxaxax",
-        "the",
-        "to",
-        "of",
-        "and",
-        "is",
-        "in",
-        "for",
-        "that",
-        "be"
+        "key",
+        "chip",
+        "use",
+        "data",
+        "keys",
+        "space",
+        "government",
+        "information",
+        "privacy",
+        "security"
       ],
-      "count": 1743
+      "count": 1294
     },
     {
       "topic_id": 4,
       "top_words": [
-        "the",
-        "of",
-        "to",
-        "and",
-        "is",
-        "in",
-        "it",
-        "that",
-        "for",
-        "this"
+        "car",
+        "bike",
+        "insurance",
+        "just",
+        "like",
+        "cars",
+        "dont",
+        "dod",
+        "engine",
+        "good"
       ],
-      "count": 546
+      "count": 1095
     },
     {
       "topic_id": 5,
       "top_words": [
-        "the",
-        "of",
-        "to",
-        "and",
-        "is",
-        "in",
-        "that",
-        "for",
-        "be",
-        "it"
+        "msg",
+        "medical",
+        "cancer",
+        "food",
+        "patients",
+        "dont",
+        "doctor",
+        "treatment",
+        "know",
+        "medicine"
       ],
-      "count": 459
+      "count": 485
     },
     {
       "topic_id": 6,
       "top_words": [
-        "the",
-        "to",
-        "and",
-        "you",
-        "my",
-        "of",
-        "it",
-        "in",
-        "on",
-        "that"
+        "water",
+        "battery",
+        "energy",
+        "photography",
+        "temperature",
+        "batteries",
+        "discharge",
+        "cooling",
+        "concrete",
+        "dept"
       ],
-      "count": 397
+      "count": 186
     },
     {
       "topic_id": 7,
       "top_words": [
-        "the",
-        "battery",
-        "is",
-        "to",
-        "and",
-        "it",
-        "in",
-        "on",
-        "of",
-        "ground"
+        "points",
+        "den",
+        "algorithm",
+        "line",
+        "problem",
+        "plane",
+        "xxxx",
+        "edge",
+        "point",
+        "radius"
       ],
-      "count": 138
+      "count": 120
     },
     {
       "topic_id": 8,
       "top_words": [
-        "the",
-        "kirlian",
-        "photography",
-        "to",
-        "of",
-        "is",
-        "it",
-        "in",
-        "and",
-        "uv"
+        "ground",
+        "conductor",
+        "neutral",
+        "wire",
+        "connected",
+        "current",
+        "panel",
+        "outlets",
+        "grounded",
+        "box"
       ],
-      "count": 79
+      "count": 15
     }
   ]
 }

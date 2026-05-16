@@ -2,6 +2,7 @@ import time
 import json
 from datetime import datetime
 from bertopic import BERTopic
+from sklearn.feature_extraction.text import CountVectorizer
 from dataset import load_data
 
 # data
@@ -11,10 +12,17 @@ docs = data['docs']
 # bertopic model
 
 start = time.time()
+vectorizer_model = CountVectorizer(
+    stop_words="english",
+    min_df=5,
+    ngram_range=(1, 2),
+    token_pattern=r"(?u)\b[a-zA-Z][a-zA-Z]+\b",
+)
 topic_model = BERTopic(
     nr_topics=10,        # same number of topics as LDA (fair comparison)
     verbose=True,
-    language="english"
+    language="english",
+    vectorizer_model=vectorizer_model,
 )
 topics_list, probs = topic_model.fit_transform(docs)
 training_time = time.time() - start
