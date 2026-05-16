@@ -23,6 +23,7 @@ data = load_data()
 docs = data['docs']
 labels = data['labels']
 category_names = data['category_names']
+doc_ids = data['doc_ids']
 
 # output schema
 class TopicResult(BaseModel):
@@ -72,6 +73,7 @@ for i, idx in enumerate(sample_indices):
 
         results.append({
             "doc_index": int(idx),
+            "doc_id": doc_ids[idx],
             "topic": topic_data.topic,
             "confidence": topic_data.confidence,
             "keywords": topic_data.keywords,
@@ -83,6 +85,7 @@ for i, idx in enumerate(sample_indices):
         print(f"[{i+1}/{TOTAL_SAMPLES}] Error: {e}")
         results.append({
             "doc_index": int(idx),
+            "doc_id": doc_ids[idx],
             "topic": "Error",
             "confidence": 0.0,
             "keywords": [],

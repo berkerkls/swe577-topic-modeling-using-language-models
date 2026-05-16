@@ -5,19 +5,19 @@ BERTopic Topic Modeling Results
 Dataset: 20 Newsgroups
 Documents: 18846
 Topics: 9
-Training time: 263.16 seconds
-Timestamp: 2026-05-16 14:55:33
+Training time: 288.46 seconds
+Timestamp: 2026-05-16 18:03:18
 
 ------------------------------------------------------------
 TOPICS
 ------------------------------------------------------------
 
-Topic 0 (3269 docs): use, windows, drive, software, db, card, like, does, thanks, file
-Topic 1 (3225 docs): people, god, dont, think, said, just, know, did, say, like
-Topic 2 (2397 docs): game, team, games, year, players, season, hockey, play, win, league
-Topic 3 (1294 docs): key, chip, use, data, keys, space, government, information, privacy, security
-Topic 4 (1095 docs): car, bike, insurance, just, like, cars, dont, dod, engine, good
-Topic 5 (485 docs): msg, medical, cancer, food, patients, dont, doctor, treatment, know, medicine
-Topic 6 (186 docs): water, battery, energy, photography, temperature, batteries, discharge, cooling, concrete, dept
-Topic 7 (120 docs): points, den, algorithm, line, problem, plane, xxxx, edge, point, radius
-Topic 8 (15 docs): ground, conductor, neutral, wire, connected, current, panel, outlets, grounded, box
+Topic 0 (4563 docs): people, dont, god, think, just, know, said, government, like, say
+Topic 1 (3622 docs): image, windows, use, drive, file, software, like, new, does, version
+Topic 2 (1831 docs): game, team, games, year, players, season, hockey, play, win, league
+Topic 3 (526 docs): gun, guns, bike, dont, just, dog, people, like, right, think
+Topic 4 (497 docs): insurance, msg, health, patients, food, medical, cancer, doctor, pain, dont
+Topic 5 (365 docs): space, mission, moon, earth, nasa, launch, probe, sky, solar, shuttle
+Topic 6 (214 docs): battery, water, oil, temperature, batteries, concrete, heat, nuclear, steam, car
+Topic 7 (200 docs): radar, ground, detector, phone, radio, equipment, radar detector, detectors, wire, neutral
+Topic 8 (119 docs): points, den, algorithm, line, plane, problem, edge, point, radius, lines
