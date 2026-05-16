@@ -9,9 +9,9 @@ Sampling        : Stratified (10 per category)
 Total samples   : 200 / 18846 docs
 Max chars/doc   : 5000
 Random seed     : 42
-Total time      : 476.88 seconds
-Avg per doc     : 2.38 seconds
-Timestamp       : 2026-05-15 15:48:07
+Total time      : 508.27 seconds
+Avg per doc     : 2.54 seconds
+Timestamp       : 2026-05-16 18:14:34
 
 ----------------------------------------------------------------------
 RESULTS BY CATEGORY
@@ -20,154 +20,154 @@ RESULTS BY CATEGORY
 📂 alt.atheism (10 docs)
    → Personal Communication
    → Theological Free Will Debate
-   → Unclear Request
+   → User Feedback Request
    → Atheism vs Theism Morality
    → Online Community Dynamics
    → Agreement and Affirmation
-   → Error
-   → Speculative Assertion
+   → Resurrection Beliefs Evidence
+   → Textual Ambiguity
    → Anti-Islamic Propaganda
-   → Koresh Legal Issues
+   → Religious Figure Discussion
 
 📂 comp.graphics (10 docs)
-   → Color Space Conversion
-   → Computer Graphics Reference
-   → 3D Graphics Job Search
-   → Academic Author Inquiry
-   → Usenet Hierarchy Policy
-   → Usenet Group Discussion
-   → 3D Modeling Software
+   → Image Color Space Conversion
+   → Technical Book Recommendation
+   → 3D Graphics Job
+   → Author Email Inquiry
+   → Newsgroups Hierarchy Policy
+   → Usenet Group Inquiry
+   → 3D Graphics Software
    → JPEG Compression Algorithms
    → Graph Visualization Software
    → VOGL Graphics Library
 
 📂 comp.os.ms-windows.misc (10 docs)
-   → Software Licensing Education
-   → Corporate Communications Strategy
-   → Hardware Issue Diagnosis
-   → Computer Program Startup
-   → Graphics Card Performance
-   → User Survey Analysis
-   → Software Compatibility Issue
-   → System Information Unavailable
+   → Educational Software Pricing
+   → Customer Support Response
+   → Hardware Issue Identification
+   → Startup Program Configuration
+   → Graphics Card Review
+   → Survey Data Analysis
+   → Ami Pro Software Issue
+   → System Not Found
    → Bitmap Image Creation
    → Text Analysis Request
 
 📂 comp.sys.ibm.pc.hardware (10 docs)
-   → Hardware Troubleshooting and Information
+   → Hardware Troubleshooting Forum
    → Monitor Feature Comparison
-   → Orchid Product Issue
-   → Software Build Issues
+   → Product Issue Resolution
+   → Software Bug Reporting
    → Computer Hardware Upgrade
-   → Customer Service Complaint
-   → IRQ Sharing
+   → Consumer Product Complaint
+   → IRQ Sharing Conflict
    → Computer Hardware Adaptation
    → Monitor Purchase Advice
    → MS DOS FAQ Creation
 
 📂 comp.sys.mac.hardware (10 docs)
-   → SCSI Bus Issues
-   → DIY Computer Accessories
-   → Voicemail System Analysis
+   → SCSI Bus Troubleshooting
+   → DIY Computer Hardware
+   → Voicemail System Usage
    → Monitor Interference Troubleshooting
-   → Energy Saving Measures
-   → Mac Unix Disk Compatibility
-   → Apple IIci Computer
+   → Electricity Conservation Strategy
+   → Mac Disk Compatibility
+   → Vintage Computer Comparison
    → Contact Information Query
    → Computer Hardware Upgrade
-   → Vintage Computer Battery
+   → Vintage Computer Battery Search
 
 📂 comp.windows.x (10 docs)
+   → Mailing List Subscription
+   → C++ GUI Toolkit Evaluation
    → Subscription Request
-   → C++ GUI Toolkits
-   → Subscription Request
-   → Error
+   → X client IO error
    → Academic Article Search
    → XView Image Performance
    → Mailing List Activity
-   → Software Compatibility Issues
-   → X Window System Debugging
-   → X-Terminal Network Configuration
+   → Software Compatibility Issue
+   → X Window System Connection
+   → X-Terminal TCP/IP Configuration
 
 📂 misc.forsale (10 docs)
-   → Error
-   → Tube Preamplifier Sale
+   → Retro Game Acquisition
+   → Tube Preamplifier For Sale
    → Used Keyboard Stands
-   → Used Electronic Musical Instruments
-   → Operating System Issues
-   → Error
+   → Vintage Electronics and Musical Instruments
+   → DOS Operating System Issues
+   → Audio Equipment Sale
    → Social Commentary
-   → Automobile Sale Listing
-   → Musical Instrument Sale
+   → Used Car Sale
+   → Musical Keyboard For Sale
    → Trading Card Sale
 
 📂 rec.autos (10 docs)
    → Automotive Model Inquiry
    → Automotive Mailing List Setup
-   → Tire Performance and Weather
-   → Automotive Repair Advice
-   → Spelling and Geography Inquiry
-   → Incomplete Inquiry
-   → Error
-   → Vintage Automotive Restoration
-   → Automotive Reliability Comparison
-   → VW Corrado VR6
+   → Tire Performance Analysis
+   → Automotive Restoration Advice
+   → Spelling and Peugeot
+   → Unclear Topic
+   → Automatic Transmission Performance
+   → Vintage Automotive Discussion
+   → Alfa Romeo Spider Reliability
+   → Volkswagen Corrado VR6
 
 📂 rec.motorcycles (10 docs)
-   → Motorcycle Shaft Effect
-   → Motorcycle Leaning Technique
-   → Unclear Statement
+   → Motorcycle Dynamics Analysis
    → Error
+   → Measurement Uncertainty
+   → Military Combat Boots
    → Personal Inquiry
-   → Error
-   → Motorcycle Riding Advice
-   → Legal and Social Grievance
+   → Motorcycle Luggage Dynamics
+   → Motorcycle Riding Safety
+   → Legal and Personal Grievance
    → Motorcycle Road Trip
-   → Motorcycle Coolant Selection
+   → Motorcycle Coolant Choice
 
 📂 rec.sport.baseball (10 docs)
-   → Error
-   → Error
+   → Baseball Player Analysis
+   → Baseball Player Statistics
    → Email Address Inquiry
-   → Baseball Statistical Analysis
-   → Baseball Marketing Strategies
-   → Baseball Player Status
+   → Baseball Offense Defense Split
+   → Sports Marketing Issues
+   → Mel Hall Status
    → Baseball Player Evaluation
-   → Sports Betting Predictions
+   → Sports Prediction Analysis
    → Baseball Trivia Analysis
-   → Baseball Player Achievements
+   → Baseball Home Runs
 
 📂 rec.sport.hockey (10 docs)
    → NHL Coaching Rumors
-   → Hockey Team Performance
-   → NHL Player International Play
-   → Sports Broadcast Comparison
-   → Xenophobic Political Commentary
    → Hockey Game Analysis
-   → Sports Commentary Criticism
-   → Ulf Samuelson Hockey Criticism
-   → Hockey Game Tradition
-   → Interpersonal Conflict Discussion
+   → Ice Hockey Tournament
+   → Sports Broadcast Choice
+   → Xenophobic Political Statement
+   → Ice Hockey Discussion
+   → Armchair Sports Commentary
+   → Ice Hockey Player Criticism
+   → Hockey Fan Traditions
+   → Interpersonal Conflict
 
 📂 sci.crypt (10 docs)
-   → DES Encryption Source
-   → Government Surveillance Concerns
-   → Electronic Surveillance Policy
-   → Privacy Chip Debate
-   → Cryptographic Cipher Implementation
-   → Patent and Copyright Law
+   → Cryptography Source Code
+   → Government Surveillance and Privacy
+   → Communication System Security
+   → Electronic Surveillance and Privacy
+   → Cryptography Stream Cipher
+   → Patent Law Discussion
    → Clipper Chip Controversy
-   → Privacy Valuation Discussion
+   → Privacy Value Estimation
    → Locksmithing and Security Systems
-   → Media Plurality Discussion
+   → Media Analysis Discussion
 
 📂 sci.electronics (10 docs)
    → Amateur Radio Literature
-   → Irrelevant Textual Data
-   → Microcontroller Bootloader Solution
-   → Computer Fan Specifications
+   → Invalid Input Data
+   → Microcontroller Bootloader Setup
+   → Computer Cooling Fan
    → Analog Multiplexer Design
-   → Universal Time Receiver
+   → Time Synchronization Solution
    → Cooling Tower Mechanics
    → Software Installation Issues
    → German Postal Service
@@ -175,47 +175,47 @@ RESULTS BY CATEGORY
 
 📂 sci.med (10 docs)
    → Allergy Shot Effectiveness
-   → Error
+   → Unclear Subject Matter
    → Cooking and Internet Use
-   → Lactose Intolerance Biology
+   → Lactase Persistence Biology
    → MSG Controversy Debate
    → Kirlian Photography Effect
    → Migraine Medication Side Effects
-   → Kirlian Photography
-   → Teacher Immunization Development
-   → Fishing Injury Recovery
+   → Kirlian Photography Discussion
+   → Teacher Immune System Development
+   → Fishing Accident Injury
 
 📂 sci.space (10 docs)
-   → Humor and Communication
-   → Gamma Ray Burster Distance
-   → Language Barrier
-   → High Power Rocketry
-   → Space Spacewalk Controversy
-   → Lunar Base Funding
-   → Orbital Mechanics Theory
+   → Humor and Joking
+   → Astrophysical Gamma Ray Bursts
+   → Casual Conversation
+   → High Power Rocketry Classification
+   → Staged Spacewalk Speculation
+   → Lunar Base Rationale
+   → Orbital Mechanics Hypothesis
    → Nuclear Waste Research
    → Space Station Redesign
    → Advertising and Space
 
 📂 soc.religion.christian (10 docs)
    → Christian Discussion Group
-   → Catholic Doctrine Analysis
-   → Error
-   → Music and Religion
-   → Theological Interpretation of Hell
-   → Biblical Interpretation Debate
+   → Catholic Doctrine Reconciliation
+   → Catholic views on life issues
+   → Religion and Music
+   → Christian Theology Interpretation
+   → Biblical Exegesis and Interpretation
    → Ahmadiyya Muslim Community Forum
    → Text Analysis Request
-   → Atheist Invocation
-   → Biblical Interpretation Exegesis
+   → Theological Reference
+   → Biblical Interpretation Hermeneutics
 
 📂 talk.politics.guns (10 docs)
-   → Texas Concealed Carry
-   → US Gun Control Legislation
+   → Texas Gun Legislation
+   → Gun Control Legislation
    → Legislative Bill Status
-   → Gun Rights and Self-Defense
-   → Communication Skills Assessment
-   → CS Gas Deployment
+   → Gun Rights Advocacy
+   → Argumentative Discourse Analysis
+   → Tear Gas Incident
    → Usenet Group Name
    → Firearms Regulation Debate
    → Militia Regulation Debate
@@ -223,39 +223,39 @@ RESULTS BY CATEGORY
 
 📂 talk.politics.mideast (10 docs)
    → Historical Jewish-Arab Conflict
-   → Israeli Legal and Social Structure
-   → Alumni Directory Record
-   → Interpersonal Conflict and History Debate
-   → Unclear Content Discussion
-   → Error
-   → World War 2
+   → Israeli Citizenship and Law
+   → Alumni Directory Discrepancy
+   → Online Dispute and Historical Grievances
+   → Usenet Group Dynamics
+   → Gaza State Viability
+   → World War II Balkans
    → Political Appointment Dynamics
    → Humor and Policy Objections
-   → Unclear Content
+   → Ambiguous Exclamation
 
 📂 talk.politics.misc (10 docs)
-   → Political Hypocrisy and Double Standards
+   → Governmental Hypocrisy and Civil Rights
    → Abuse of Power
    → Human Appetite Psychology
-   → Argumentation and Sarcasm
-   → Survey Data Discrepancy
+   → Argument by Absurdity
+   → Survey Data Interpretation
    → Unresolved Argumentation
-   → US Fiscal Policy
+   → Economic Policy Analysis
    → Foreign Aid Policy
-   → Social Issues and Gender
-   → Sexual Orientation and Society
+   → Social issues and debate
+   → Sexual Orientation Discussion
 
 📂 talk.religion.misc (10 docs)
-   → Cult Leader Operations Analysis
-   → Error
-   → Origins of Species
+   → Cult Recruitment and Deception
+   → Economic Policy Discussion
+   → Origin of Species
    → Empty Input Analysis
    → Theistic Objectivity and Indoctrination
-   → Religious Disagreement
+   → Religious Debate Tactics
    → Subjective Value Perception
-   → Debate and Argumentation Critique
-   → Societal Justice Critique
-   → Cult and Religion Origins
+   → Argumentative Debate Tactics
+   → Societal Justice Debate
+   → Cult and Religion Formation
 
 ----------------------------------------------------------------------
 DETAILED RESULTS
@@ -276,8 +276,8 @@ Document 2
 Document 3
   True Category : rec.autos
   Predicted     : Automotive Model Inquiry
-  Confidence    : 0.75
-  Keywords      : 850, 750iL, 835
+  Confidence    : 0.80
+  Keywords      : 850, 835, 840
 
 Document 4
   True Category : rec.autos
@@ -287,15 +287,15 @@ Document 4
 
 Document 5
   True Category : talk.politics.guns
-  Predicted     : Texas Concealed Carry
+  Predicted     : Texas Gun Legislation
   Confidence    : 0.75
-  Keywords      : bill, Texas, weapons
+  Keywords      : Texas, concealed, weapons
 
 Document 6
   True Category : rec.sport.baseball
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Baseball Player Analysis
+  Confidence    : 0.90
+  Keywords      : Davis, hitter, shortstop
 
 Document 7
   True Category : sci.med
@@ -307,193 +307,193 @@ Document 8
   True Category : alt.atheism
   Predicted     : Personal Communication
   Confidence    : 0.50
-  Keywords      : surname, spelled, Cheers
+  Keywords      : surname, Cheers, Kent
 
 Document 9
   True Category : talk.politics.misc
-  Predicted     : Political Hypocrisy and Double Standards
-  Confidence    : 0.95
-  Keywords      : Clinton, BATF, hypocrisy
+  Predicted     : Governmental Hypocrisy and Civil Rights
+  Confidence    : 0.90
+  Keywords      : Clinton, government, civil rights
 
 Document 10
   True Category : talk.politics.mideast
   Predicted     : Historical Jewish-Arab Conflict
   Confidence    : 0.75
-  Keywords      : Jewish, Israel, Arabs
+  Keywords      : Jewish, Israelis, Arabs
 
 Document 11
   True Category : soc.religion.christian
-  Predicted     : Catholic Doctrine Analysis
+  Predicted     : Catholic Doctrine Reconciliation
   Confidence    : 0.85
   Keywords      : predestination, free will, Catholic
 
 Document 12
   True Category : soc.religion.christian
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Catholic views on life issues
+  Confidence    : 0.90
+  Keywords      : Catholic, capital punishment, abortion
 
 Document 13
   True Category : sci.electronics
-  Predicted     : Irrelevant Textual Data
+  Predicted     : Invalid Input Data
   Confidence    : 0.10
-  Keywords      : ISBN, 0-13-747270-6
+  Keywords      : ISBN
 
 Document 14
   True Category : comp.sys.mac.hardware
-  Predicted     : SCSI Bus Issues
-  Confidence    : 0.90
+  Predicted     : SCSI Bus Troubleshooting
+  Confidence    : 0.95
   Keywords      : SCSI, IIfx, terminator
 
 Document 15
   True Category : sci.med
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Unclear Subject Matter
+  Confidence    : 0.20
+  Keywords      : question, stands, Sulfites
 
 Document 16
   True Category : talk.politics.guns
-  Predicted     : US Gun Control Legislation
+  Predicted     : Gun Control Legislation
   Confidence    : 0.85
-  Keywords      : Brady Bill, Senate, House
+  Keywords      : Brady Bill, Senate, vote
 
 Document 17
   True Category : sci.med
   Predicted     : Cooking and Internet Use
   Confidence    : 0.75
-  Keywords      : cook, net, additives
+  Keywords      : cook, net, kitchen
 
 Document 18
   True Category : talk.politics.mideast
-  Predicted     : Israeli Legal and Social Structure
-  Confidence    : 0.93
-  Keywords      : Israeli citizen, law, religious
+  Predicted     : Israeli Citizenship and Law
+  Confidence    : 0.90
+  Keywords      : Israeli, citizens, law
 
 Document 19
   True Category : rec.motorcycles
-  Predicted     : Motorcycle Shaft Effect
+  Predicted     : Motorcycle Dynamics Analysis
   Confidence    : 0.85
-  Keywords      : shaft, fly-wheels, throttle
+  Keywords      : fly-wheels, throttle, R100S
 
 Document 20
   True Category : sci.crypt
-  Predicted     : DES Encryption Source
+  Predicted     : Cryptography Source Code
   Confidence    : 0.85
   Keywords      : DES, encryption, source code
 
 Document 21
   True Category : rec.motorcycles
-  Predicted     : Motorcycle Leaning Technique
-  Confidence    : 0.75
-  Keywords      : countersteering, leaning, bike
+  Predicted     : Error
+  Confidence    : 0.00
+  Keywords      : 
 
 Document 22
   True Category : talk.politics.guns
   Predicted     : Legislative Bill Status
   Confidence    : 0.75
-  Keywords      : bill, reading, rep
+  Keywords      : bill, reading, state rep
 
 Document 23
   True Category : talk.politics.guns
-  Predicted     : Gun Rights and Self-Defense
-  Confidence    : 0.95
-  Keywords      : self-defense, government, gun
+  Predicted     : Gun Rights Advocacy
+  Confidence    : 0.85
+  Keywords      : self-defense, Handgun Control, lawmakers
 
 Document 24
   True Category : talk.politics.mideast
-  Predicted     : Alumni Directory Record
-  Confidence    : 0.70
-  Keywords      : Alumni, Directory, graduate
+  Predicted     : Alumni Directory Discrepancy
+  Confidence    : 0.75
+  Keywords      : Harvard, Alumni, graduate
 
 Document 25
   True Category : comp.sys.ibm.pc.hardware
-  Predicted     : Hardware Troubleshooting and Information
+  Predicted     : Hardware Troubleshooting Forum
   Confidence    : 0.90
-  Keywords      : jumper, ISA, BALE
+  Keywords      : jumper, ISA, Speedstar
 
 Document 26
   True Category : talk.politics.misc
   Predicted     : Abuse of Power
   Confidence    : 0.75
-  Keywords      : oath, abused, powers
+  Keywords      : oath, abused, gain
 
 Document 27
   True Category : sci.space
-  Predicted     : Humor and Communication
-  Confidence    : 0.75
-  Keywords      : joke, humour, joking
+  Predicted     : Humor and Joking
+  Confidence    : 0.85
+  Keywords      : joke, humour, JOKING
 
 Document 28
   True Category : talk.religion.misc
-  Predicted     : Cult Leader Operations Analysis
-  Confidence    : 0.90
-  Keywords      : Jesus, Koresh, Waco
+  Predicted     : Cult Recruitment and Deception
+  Confidence    : 0.75
+  Keywords      : False Jesus, Con, bulldada
 
 Document 29
   True Category : rec.sport.hockey
   Predicted     : NHL Coaching Rumors
   Confidence    : 0.85
-  Keywords      : Ranger, coach, Keenan
+  Keywords      : Keenan, Rangers, coach
 
 Document 30
   True Category : sci.space
-  Predicted     : Gamma Ray Burster Distance
-  Confidence    : 0.85
-  Keywords      : Gamma Ray, distance, Oort cloud
+  Predicted     : Astrophysical Gamma Ray Bursts
+  Confidence    : 0.90
+  Keywords      : Gamma Ray, bursters, distances
 
 Document 31
   True Category : comp.os.ms-windows.misc
-  Predicted     : Software Licensing Education
-  Confidence    : 0.75
-  Keywords      : software, educational, Excel
+  Predicted     : Educational Software Pricing
+  Confidence    : 0.85
+  Keywords      : software, educational, rates
 
 Document 32
   True Category : sci.electronics
-  Predicted     : Microcontroller Bootloader Solution
+  Predicted     : Microcontroller Bootloader Setup
   Confidence    : 0.95
-  Keywords      : bootloader, E2PROM, 51
+  Keywords      : E2PROM, bootloader, 8051
 
 Document 33
   True Category : misc.forsale
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Retro Game Acquisition
+  Confidence    : 0.85
+  Keywords      : Ultima V, game, Docs
 
 Document 34
   True Category : misc.forsale
-  Predicted     : Tube Preamplifier Sale
+  Predicted     : Tube Preamplifier For Sale
   Confidence    : 0.95
-  Keywords      : tube, pre-amp, Dynakit
+  Keywords      : tube, pre-amp, sound
 
 Document 35
   True Category : comp.os.ms-windows.misc
-  Predicted     : Corporate Communications Strategy
+  Predicted     : Customer Support Response
   Confidence    : 0.75
   Keywords      : attack, Microsoft, response
 
 Document 36
   True Category : comp.sys.mac.hardware
-  Predicted     : DIY Computer Accessories
+  Predicted     : DIY Computer Hardware
   Confidence    : 0.85
-  Keywords      : PhoneNET, adapters, MacRecorder
+  Keywords      : adapters, MacRecorder, PhoneNET
 
 Document 37
   True Category : comp.sys.mac.hardware
-  Predicted     : Voicemail System Analysis
+  Predicted     : Voicemail System Usage
   Confidence    : 0.75
-  Keywords      : Voic Mail Box, feature, Home Office
+  Keywords      : Voic Mail Box, 14.4, Home Office
 
 Document 38
   True Category : rec.sport.baseball
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Baseball Player Statistics
+  Confidence    : 0.95
+  Keywords      : average, OBP, AB
 
 Document 39
   True Category : talk.politics.misc
   Predicted     : Human Appetite Psychology
   Confidence    : 0.75
-  Keywords      : appetite, sex, restaurant
+  Keywords      : appetite, phenomina, sex
 
 Document 40
   True Category : comp.sys.mac.hardware
@@ -503,55 +503,55 @@ Document 40
 
 Document 41
   True Category : comp.sys.mac.hardware
-  Predicted     : Energy Saving Measures
+  Predicted     : Electricity Conservation Strategy
   Confidence    : 0.85
-  Keywords      : off, night, electricity
+  Keywords      : off, overnight, consumption
 
 Document 42
   True Category : rec.sport.hockey
-  Predicted     : Hockey Team Performance
-  Confidence    : 0.75
+  Predicted     : Hockey Game Analysis
+  Confidence    : 0.85
   Keywords      : Leafs, Philadelphia, team
 
 Document 43
   True Category : rec.motorcycles
-  Predicted     : Unclear Statement
-  Confidence    : 0.40
+  Predicted     : Measurement Uncertainty
+  Confidence    : 0.50
   Keywords      : feet, line, draw
 
 Document 44
   True Category : rec.motorcycles
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Military Combat Boots
+  Confidence    : 0.90
+  Keywords      : boots, military, air-borne
 
 Document 45
   True Category : soc.religion.christian
-  Predicted     : Music and Religion
-  Confidence    : 0.95
+  Predicted     : Religion and Music
+  Confidence    : 0.90
   Keywords      : religion, music, songs
 
 Document 46
   True Category : rec.sport.baseball
   Predicted     : Email Address Inquiry
   Confidence    : 0.85
-  Keywords      : E-Mail, address, you
+  Keywords      : E-Mail, address, Doug
 
 Document 47
   True Category : talk.politics.guns
-  Predicted     : Communication Skills Assessment
+  Predicted     : Argumentative Discourse Analysis
   Confidence    : 0.75
-  Keywords      : illiterate, write, sentences
+  Keywords      : illiterate, sentences, superior
 
 Document 48
   True Category : comp.windows.x
-  Predicted     : Subscription Request
+  Predicted     : Mailing List Subscription
   Confidence    : 0.70
   Keywords      : subscribe, mailing, list
 
 Document 49
   True Category : comp.os.ms-windows.misc
-  Predicted     : Hardware Issue Diagnosis
+  Predicted     : Hardware Issue Identification
   Confidence    : 0.70
   Keywords      : Diamond, Stealth, VRAM
 
@@ -563,81 +563,81 @@ Document 50
 
 Document 51
   True Category : sci.med
-  Predicted     : Lactose Intolerance Biology
-  Confidence    : 0.95
-  Keywords      : lactose, intestine, mammals
+  Predicted     : Lactase Persistence Biology
+  Confidence    : 0.85
+  Keywords      : lactase, lactose, mammals
 
 Document 52
   True Category : sci.electronics
-  Predicted     : Computer Fan Specifications
-  Confidence    : 0.95
-  Keywords      : fans, 120, computer
+  Predicted     : Computer Cooling Fan
+  Confidence    : 0.90
+  Keywords      : fan, 120 volt, computer
 
 Document 53
   True Category : sci.electronics
   Predicted     : Analog Multiplexer Design
   Confidence    : 0.95
-  Keywords      : multiplexer, analog, switch
+  Keywords      : multiplexer, analog, opamp
 
 Document 54
   True Category : comp.graphics
-  Predicted     : Color Space Conversion
-  Confidence    : 0.90
+  Predicted     : Image Color Space Conversion
+  Confidence    : 0.95
   Keywords      : YUV, RGB, clamping
 
 Document 55
   True Category : comp.graphics
-  Predicted     : Computer Graphics Reference
+  Predicted     : Technical Book Recommendation
   Confidence    : 0.85
-  Keywords      : Computer Graphics, book, questions
+  Keywords      : book, Computer Graphics, questions
 
 Document 56
   True Category : talk.politics.mideast
-  Predicted     : Interpersonal Conflict and History Debate
+  Predicted     : Online Dispute and Historical Grievances
   Confidence    : 0.75
   Keywords      : Armenians, Turkey, freedom of speech
 
 Document 57
   True Category : comp.graphics
-  Predicted     : 3D Graphics Job Search
-  Confidence    : 0.90
-  Keywords      : 3d, graphics, companies
+  Predicted     : 3D Graphics Job
+  Confidence    : 0.95
+  Keywords      : graphics, companies, job
 
 Document 58
   True Category : comp.os.ms-windows.misc
-  Predicted     : Computer Program Startup
+  Predicted     : Startup Program Configuration
   Confidence    : 0.75
   Keywords      : ProgMan, hotkey, StartUp
 
 Document 59
   True Category : comp.windows.x
-  Predicted     : C++ GUI Toolkits
-  Confidence    : 0.90
-  Keywords      : Motif++, View.h++, C++
+  Predicted     : C++ GUI Toolkit Evaluation
+  Confidence    : 0.95
+  Keywords      : Motif, C++, toolkit
 
 Document 60
   True Category : sci.crypt
-  Predicted     : Government Surveillance Concerns
-  Confidence    : 0.90
+  Predicted     : Government Surveillance and Privacy
+  Confidence    : 0.95
   Keywords      : government, privacy, surveillance
 
 Document 61
   True Category : talk.politics.misc
-  Predicted     : Argumentation and Sarcasm
+  Predicted     : Argument by Absurdity
   Confidence    : 0.85
-  Keywords      : argument, sarcasm, minimum wage
+  Keywords      : argument, minimum wage, absurdity
 
 Document 62
   True Category : alt.atheism
-  Predicted     : Unclear Request
-  Confidence    : 0.30
-  Keywords      : answer key, post, while
+  Predicted     : User Feedback Request
+  Confidence    : 0.70
+  Keywords      : answer key, post, Nanci
 
 Document 63
   True Category : comp.sys.ibm.pc.hardware
   Predicted     : Monitor Feature Comparison
   Confidence    : 0.85
-  Keywords      : AccuColor, bandwidth, trinitron tube
+  Keywords      : AccuColor, bandwidth, trinitron
 
 Document 64
   True Category : rec.motorcycles
@@ -659,63 +659,63 @@ Document 66
 
 Document 67
   True Category : rec.sport.baseball
-  Predicted     : Baseball Statistical Analysis
+  Predicted     : Baseball Offense Defense Split
   Confidence    : 0.90
-  Keywords      : baseball, defense, pitching
+  Keywords      : baseball, offense, defense
 
 Document 68
   True Category : comp.graphics
-  Predicted     : Academic Author Inquiry
-  Confidence    : 0.95
+  Predicted     : Author Email Inquiry
+  Confidence    : 0.90
   Keywords      : author, email, papers
 
 Document 69
   True Category : rec.autos
-  Predicted     : Tire Performance and Weather
+  Predicted     : Tire Performance Analysis
   Confidence    : 0.95
-  Keywords      : tires, weather, V4s
+  Keywords      : tires, V4s, weather
 
 Document 70
   True Category : comp.os.ms-windows.misc
-  Predicted     : Graphics Card Performance
-  Confidence    : 0.91
+  Predicted     : Graphics Card Review
+  Confidence    : 0.85
   Keywords      : card, drivers, RAM
 
 Document 71
   True Category : talk.politics.misc
-  Predicted     : Survey Data Discrepancy
-  Confidence    : 0.85
-  Keywords      : surveyed, homosexual, different
+  Predicted     : Survey Data Interpretation
+  Confidence    : 0.75
+  Keywords      : study, percent, homosexual
 
 Document 72
   True Category : comp.sys.ibm.pc.hardware
-  Predicted     : Orchid Product Issue
+  Predicted     : Product Issue Resolution
   Confidence    : 0.85
-  Keywords      : Orchid, problem, tech support
+  Keywords      : Orchid, problem, production
 
 Document 73
   True Category : sci.space
-  Predicted     : Language Barrier
-  Confidence    : 0.40
-  Keywords      : language, sorry, talking
+  Predicted     : Casual Conversation
+  Confidence    : 0.50
+  Keywords      : language, talking, used
 
 Document 74
   True Category : comp.graphics
-  Predicted     : Usenet Hierarchy Policy
-  Confidence    : 0.85
-  Keywords      : alt.*, comp.*, newsgroups
+  Predicted     : Newsgroups Hierarchy Policy
+  Confidence    : 0.90
+  Keywords      : newsgroups, hierarchy, comp.graphics
 
 Document 75
   True Category : rec.motorcycles
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Motorcycle Luggage Dynamics
+  Confidence    : 0.75
+  Keywords      : luggage, panniers, motorcycle
 
 Document 76
   True Category : rec.motorcycles
-  Predicted     : Motorcycle Riding Advice
-  Confidence    : 0.90
-  Keywords      : throttle, brake, riding
+  Predicted     : Motorcycle Riding Safety
+  Confidence    : 0.85
+  Keywords      : throttle, braking, pillion
 
 Document 77
   True Category : sci.med
@@ -731,57 +731,57 @@ Document 78
 
 Document 79
   True Category : rec.sport.hockey
-  Predicted     : NHL Player International Play
-  Confidence    : 0.90
-  Keywords      : Oilers, playing, Canada
+  Predicted     : Ice Hockey Tournament
+  Confidence    : 0.95
+  Keywords      : Oilers, playing, Rangers
 
 Document 80
   True Category : alt.atheism
   Predicted     : Atheism vs Theism Morality
-  Confidence    : 0.90
+  Confidence    : 0.85
   Keywords      : atheism, theist, genocide
 
 Document 81
   True Category : comp.windows.x
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : X client IO error
+  Confidence    : 0.95
+  Keywords      : IO error, X server, client
 
 Document 82
   True Category : rec.sport.baseball
-  Predicted     : Baseball Marketing Strategies
+  Predicted     : Sports Marketing Issues
   Confidence    : 0.85
-  Keywords      : baseball, owners, fans
+  Keywords      : baseball, marketing, fans
 
 Document 83
   True Category : talk.politics.mideast
-  Predicted     : Unclear Content Discussion
-  Confidence    : 0.30
-  Keywords      : Bibo, Argic, cosar
+  Predicted     : Usenet Group Dynamics
+  Confidence    : 0.55
+  Keywords      : Usenet, crossposting, noise
 
 Document 84
   True Category : talk.politics.guns
-  Predicted     : CS Gas Deployment
-  Confidence    : 0.85
-  Keywords      : gas, canisters, building
+  Predicted     : Tear Gas Incident
+  Confidence    : 0.90
+  Keywords      : tear gas, canisters, building
 
 Document 85
   True Category : sci.space
-  Predicted     : High Power Rocketry
+  Predicted     : High Power Rocketry Classification
   Confidence    : 0.95
-  Keywords      : rockets, engines, HPR
+  Keywords      : rockets, engines, impulse
 
 Document 86
   True Category : misc.forsale
-  Predicted     : Used Electronic Musical Instruments
+  Predicted     : Vintage Electronics and Musical Instruments
   Confidence    : 0.90
-  Keywords      : synthesizer, guitar, drum
+  Keywords      : joystick, synthesizer, cymbal
 
 Document 87
   True Category : sci.crypt
-  Predicted     : Electronic Surveillance Policy
+  Predicted     : Communication System Security
   Confidence    : 0.85
-  Keywords      : Clipper chip, eavesdrop, government
+  Keywords      : communication, chip, card
 
 Document 88
   True Category : alt.atheism
@@ -791,129 +791,129 @@ Document 88
 
 Document 89
   True Category : misc.forsale
-  Predicted     : Operating System Issues
+  Predicted     : DOS Operating System Issues
   Confidence    : 0.90
   Keywords      : DOS 6, protection faults, DOS 5
 
 Document 90
   True Category : comp.windows.x
   Predicted     : Academic Article Search
-  Confidence    : 0.90
+  Confidence    : 0.85
   Keywords      : article, X Resource, computer science
 
 Document 91
   True Category : comp.sys.ibm.pc.hardware
-  Predicted     : Software Build Issues
-  Confidence    : 0.85
+  Predicted     : Software Bug Reporting
+  Confidence    : 0.90
   Keywords      : build, exceptions, Windows
 
 Document 92
   True Category : sci.electronics
-  Predicted     : Universal Time Receiver
-  Confidence    : 0.75
-  Keywords      : receiver, oscillator, logistics
+  Predicted     : Time Synchronization Solution
+  Confidence    : 0.65
+  Keywords      : receiver, oscillator, time
 
 Document 93
   True Category : talk.politics.guns
   Predicted     : Usenet Group Name
-  Confidence    : 0.70
+  Confidence    : 0.60
   Keywords      : alt.sex.bondage, anti-semite, Usenet
 
 Document 94
   True Category : rec.sport.hockey
-  Predicted     : Sports Broadcast Comparison
+  Predicted     : Sports Broadcast Choice
   Confidence    : 0.75
-  Keywords      : baseball, game, clock
+  Keywords      : game, baseball, overtime
 
 Document 95
   True Category : rec.autos
-  Predicted     : Automotive Repair Advice
+  Predicted     : Automotive Restoration Advice
   Confidence    : 0.95
-  Keywords      : brake, clutch, carb
+  Keywords      : carb, brake, clutch
 
 Document 96
   True Category : talk.politics.misc
-  Predicted     : US Fiscal Policy
-  Confidence    : 0.75
+  Predicted     : Economic Policy Analysis
+  Confidence    : 0.85
   Keywords      : taxes, revenue, deficits
 
 Document 97
   True Category : alt.atheism
   Predicted     : Agreement and Affirmation
-  Confidence    : 0.70
-  Keywords      : Amen, agree, stated
+  Confidence    : 0.50
+  Keywords      : agree, Amen, stated
 
 Document 98
   True Category : misc.forsale
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Audio Equipment Sale
+  Confidence    : 0.95
+  Keywords      : Polk, sale, opened
 
 Document 99
   True Category : rec.sport.hockey
-  Predicted     : Xenophobic Political Commentary
+  Predicted     : Xenophobic Political Statement
   Confidence    : 0.75
-  Keywords      : continent, Native, xenophobic
+  Keywords      : xenophobic, continent, Native
 
 Document 100
   True Category : rec.motorcycles
-  Predicted     : Legal and Social Grievance
-  Confidence    : 0.78
-  Keywords      : JUSTICE, Judge, ruling
+  Predicted     : Legal and Personal Grievance
+  Confidence    : 0.75
+  Keywords      : JUSTICE, leg, ruling
 
 Document 101
   True Category : talk.religion.misc
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Economic Policy Discussion
+  Confidence    : 0.65
+  Keywords      : US, $1, wanted
 
 Document 102
   True Category : rec.autos
-  Predicted     : Spelling and Geography Inquiry
+  Predicted     : Spelling and Peugeot
   Confidence    : 0.50
-  Keywords      : spelling, Peugeot, N. America
+  Keywords      : Peugeot, spelling, N. America
 
 Document 103
   True Category : misc.forsale
   Predicted     : Social Commentary
-  Confidence    : 0.65
+  Confidence    : 0.75
   Keywords      : offensive, women, common sense
 
 Document 104
   True Category : soc.religion.christian
-  Predicted     : Theological Interpretation of Hell
+  Predicted     : Christian Theology Interpretation
   Confidence    : 0.85
-  Keywords      : hell, Jesus, symbolic
+  Keywords      : Jesus, hell, eternal life
 
 Document 105
   True Category : talk.religion.misc
-  Predicted     : Origins of Species
-  Confidence    : 0.75
+  Predicted     : Origin of Species
+  Confidence    : 0.65
   Keywords      : species, created, observed
 
 Document 106
   True Category : soc.religion.christian
-  Predicted     : Biblical Interpretation Debate
-  Confidence    : 0.85
-  Keywords      : Paul, Christians, Scripture
+  Predicted     : Biblical Exegesis and Interpretation
+  Confidence    : 0.90
+  Keywords      : Paul, Christians, scripture
 
 Document 107
   True Category : rec.autos
-  Predicted     : Incomplete Inquiry
-  Confidence    : 0.30
-  Keywords      : know, wanted, just
+  Predicted     : Unclear Topic
+  Confidence    : 0.10
+  Keywords      : know
 
 Document 108
   True Category : comp.sys.ibm.pc.hardware
   Predicted     : Computer Hardware Upgrade
-  Confidence    : 0.95
-  Keywords      : 486, CDROM, SCSI
+  Confidence    : 0.90
+  Keywords      : SCSI, 486, drivers
 
 Document 109
   True Category : talk.politics.mideast
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Gaza State Viability
+  Confidence    : 0.75
+  Keywords      : Gaza, state, work
 
 Document 110
   True Category : talk.religion.misc
@@ -923,51 +923,51 @@ Document 110
 
 Document 111
   True Category : rec.autos
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Automatic Transmission Performance
+  Confidence    : 0.85
+  Keywords      : auto-shifters, Porsche, transmission
 
 Document 112
   True Category : comp.windows.x
   Predicted     : XView Image Performance
   Confidence    : 0.95
-  Keywords      : XPutImage, Sunview, XView
+  Keywords      : XPutImage, Sunview, image
 
 Document 113
   True Category : rec.autos
-  Predicted     : Vintage Automotive Restoration
-  Confidence    : 0.90
-  Keywords      : Checker, restoring, parts
+  Predicted     : Vintage Automotive Discussion
+  Confidence    : 0.85
+  Keywords      : Checker, parts, restoring
 
 Document 114
   True Category : comp.sys.mac.hardware
-  Predicted     : Mac Unix Disk Compatibility
+  Predicted     : Mac Disk Compatibility
   Confidence    : 0.85
   Keywords      : Mac, Unix, disks
 
 Document 115
   True Category : sci.crypt
-  Predicted     : Privacy Chip Debate
+  Predicted     : Electronic Surveillance and Privacy
   Confidence    : 0.95
-  Keywords      : privacy, chip, wiretap
+  Keywords      : wiretap chip, privacy, NSA
 
 Document 116
   True Category : soc.religion.christian
   Predicted     : Ahmadiyya Muslim Community Forum
-  Confidence    : 0.95
-  Keywords      : Ahmadiyya, Muslim, religion
+  Confidence    : 0.90
+  Keywords      : Ahmadiyya, Muslim, Community
 
 Document 117
   True Category : sci.med
   Predicted     : Kirlian Photography Effect
   Confidence    : 0.90
-  Keywords      : Kirlian, static discharges, films
+  Keywords      : Kirlian, static, discharges
 
 Document 118
   True Category : rec.sport.baseball
-  Predicted     : Baseball Player Status
-  Confidence    : 0.75
-  Keywords      : Mel Hall, season, Yankees
+  Predicted     : Mel Hall Status
+  Confidence    : 0.85
+  Keywords      : Mel Hall, Yankees, season
 
 Document 119
   True Category : talk.politics.misc
@@ -977,123 +977,123 @@ Document 119
 
 Document 120
   True Category : sci.space
-  Predicted     : Space Spacewalk Controversy
+  Predicted     : Staged Spacewalk Speculation
   Confidence    : 0.85
   Keywords      : spacewalk, staged, Cold War
 
 Document 121
   True Category : sci.crypt
-  Predicted     : Cryptographic Cipher Implementation
+  Predicted     : Cryptography Stream Cipher
   Confidence    : 0.95
   Keywords      : cipher, MD5, key
 
 Document 122
   True Category : comp.os.ms-windows.misc
-  Predicted     : User Survey Analysis
-  Confidence    : 0.90
-  Keywords      : survey, users, rating
+  Predicted     : Survey Data Analysis
+  Confidence    : 0.85
+  Keywords      : survey, resellers, users
 
 Document 123
   True Category : sci.crypt
-  Predicted     : Patent and Copyright Law
+  Predicted     : Patent Law Discussion
   Confidence    : 0.85
-  Keywords      : patent, copyright, law
+  Keywords      : patent, law, copyright
 
 Document 124
   True Category : alt.atheism
-  Predicted     : Error
-  Confidence    : 0.00
-  Keywords      : 
+  Predicted     : Resurrection Beliefs Evidence
+  Confidence    : 0.85
+  Keywords      : Resurrection, evidence, martyrs
 
 Document 125
   True Category : comp.sys.mac.hardware
-  Predicted     : Apple IIci Computer
-  Confidence    : 0.90
+  Predicted     : Vintage Computer Comparison
+  Confidence    : 0.85
   Keywords      : IIci, expandable, System 6
 
 Document 126
   True Category : talk.politics.guns
   Predicted     : Firearms Regulation Debate
   Confidence    : 0.75
-  Keywords      : shotguns, guns, regulations
+  Keywords      : guns, Supreme Court, shotguns
 
 Document 127
   True Category : sci.crypt
   Predicted     : Clipper Chip Controversy
   Confidence    : 0.95
-  Keywords      : Clipper chip, Secure Communications Technology, algorithm
+  Keywords      : Clipper, algorithm, keys
 
 Document 128
   True Category : sci.space
-  Predicted     : Lunar Base Funding
-  Confidence    : 0.89
-  Keywords      : Lunar, funding, purpose
+  Predicted     : Lunar Base Rationale
+  Confidence    : 0.90
+  Keywords      : lunar, military, scientific
 
 Document 129
   True Category : alt.atheism
-  Predicted     : Speculative Assertion
+  Predicted     : Textual Ambiguity
   Confidence    : 0.50
   Keywords      : made, up, Perhaps
 
 Document 130
   True Category : rec.sport.hockey
-  Predicted     : Hockey Game Analysis
+  Predicted     : Ice Hockey Discussion
   Confidence    : 0.85
-  Keywords      : Philly, Leaf, hockey
+  Keywords      : hockey, Leaf, Philly
 
 Document 131
   True Category : rec.sport.baseball
   Predicted     : Baseball Player Evaluation
   Confidence    : 0.90
-  Keywords      : player, team, better
+  Keywords      : Baseball, player, team
 
 Document 132
   True Category : comp.os.ms-windows.misc
-  Predicted     : Software Compatibility Issue
-  Confidence    : 0.90
-  Keywords      : Ami Pro, PCTools, fault
+  Predicted     : Ami Pro Software Issue
+  Confidence    : 0.95
+  Keywords      : Ami Pro, PCTools, segmentation fault
 
 Document 133
   True Category : comp.sys.ibm.pc.hardware
-  Predicted     : Customer Service Complaint
-  Confidence    : 0.95
-  Keywords      : modem, MidWest Micro, support
+  Predicted     : Consumer Product Complaint
+  Confidence    : 0.90
+  Keywords      : modem, support, RMA
 
 Document 134
   True Category : comp.sys.ibm.pc.hardware
-  Predicted     : IRQ Sharing
+  Predicted     : IRQ Sharing Conflict
   Confidence    : 0.75
   Keywords      : IRQ, OS/2, share
 
 Document 135
   True Category : rec.sport.hockey
-  Predicted     : Sports Commentary Criticism
-  Confidence    : 0.75
+  Predicted     : Armchair Sports Commentary
+  Confidence    : 0.65
   Keywords      : expert, games, armchair
 
 Document 136
   True Category : talk.religion.misc
   Predicted     : Theistic Objectivity and Indoctrination
-  Confidence    : 0.85
+  Confidence    : 0.90
   Keywords      : theist, scriptures, superstition
 
 Document 137
   True Category : talk.religion.misc
-  Predicted     : Religious Disagreement
+  Predicted     : Religious Debate Tactics
   Confidence    : 0.75
   Keywords      : Bible, verses, religion
 
 Document 138
   True Category : rec.sport.hockey
-  Predicted     : Ulf Samuelson Hockey Criticism
-  Confidence    : 0.98
-  Keywords      : Ulf, hockey, coward
+  Predicted     : Ice Hockey Player Criticism
+  Confidence    : 0.90
+  Keywords      : hockey, player, Ulf Samuelson
 
 Document 139
   True Category : alt.atheism
   Predicted     : Anti-Islamic Propaganda
-  Confidence    : 0.70
-  Keywords      : Islamic, propaganda, article
+  Confidence    : 0.55
+  Keywords      : Islamic, propaganda, slander
 
 Document 140
   True Category : comp.sys.ibm.pc.hardware
@@ -1109,81 +1109,81 @@ Document 141
 
 Document 142
   True Category : sci.crypt
-  Predicted     : Privacy Valuation Discussion
-  Confidence    : 0.85
-  Keywords      : privacy, law enforcement, estimate
+  Predicted     : Privacy Value Estimation
+  Confidence    : 0.75
+  Keywords      : privacy, estimate, law enforcement
 
 Document 143
   True Category : comp.sys.mac.hardware
   Predicted     : Contact Information Query
-  Confidence    : 0.70
+  Confidence    : 0.80
   Keywords      : NuTek, email, address
 
 Document 144
   True Category : comp.windows.x
   Predicted     : Mailing List Activity
   Confidence    : 0.75
-  Keywords      : group, traffic, mailing list
+  Keywords      : group, traffic, posts
 
 Document 145
   True Category : sci.space
-  Predicted     : Orbital Mechanics Theory
-  Confidence    : 0.95
-  Keywords      : Mercury, orbit, relativity
+  Predicted     : Orbital Mechanics Hypothesis
+  Confidence    : 0.90
+  Keywords      : Mercury, orbit, planets
 
 Document 146
   True Category : comp.windows.x
-  Predicted     : Software Compatibility Issues
+  Predicted     : Software Compatibility Issue
   Confidence    : 0.85
-  Keywords      : OpenWindows, SunOS, MIT R5
+  Keywords      : OpenWindows, SunOS, compile
 
 Document 147
   True Category : comp.os.ms-windows.misc
-  Predicted     : System Information Unavailable
+  Predicted     : System Not Found
   Confidence    : 0.50
   Keywords      : system
 
 Document 148
   True Category : rec.autos
-  Predicted     : Automotive Reliability Comparison
+  Predicted     : Alfa Romeo Spider Reliability
   Confidence    : 0.85
-  Keywords      : Alfa, Reliablilty, mechanical
+  Keywords      : Alfa, Spider, Reliability
 
 Document 149
   True Category : sci.med
   Predicted     : Migraine Medication Side Effects
-  Confidence    : 0.85
+  Confidence    : 0.90
   Keywords      : Imitrex, headaches, chest pains
 
 Document 150
   True Category : talk.religion.misc
-  Predicted     : Debate and Argumentation Critique
-  Confidence    : 0.92
-  Keywords      : argument, apologize, criticized
+  Predicted     : Argumentative Debate Tactics
+  Confidence    : 0.85
+  Keywords      : argument, quotes, criticized
 
 Document 151
   True Category : talk.politics.misc
-  Predicted     : Social Issues and Gender
+  Predicted     : Social issues and debate
   Confidence    : 0.75
   Keywords      : children, abuse, gays
 
 Document 152
   True Category : talk.religion.misc
-  Predicted     : Societal Justice Critique
-  Confidence    : 0.75
-  Keywords      : justice, revolution, Sophie's Choice
+  Predicted     : Societal Justice Debate
+  Confidence    : 0.65
+  Keywords      : justice, revolution, Christian
 
 Document 153
   True Category : rec.autos
-  Predicted     : VW Corrado VR6
-  Confidence    : 0.95
+  Predicted     : Volkswagen Corrado VR6
+  Confidence    : 0.90
   Keywords      : VW, Corrado, VR6
 
 Document 154
   True Category : talk.politics.misc
-  Predicted     : Sexual Orientation and Society
-  Confidence    : 0.85
-  Keywords      : bi, gay, society
+  Predicted     : Sexual Orientation Discussion
+  Confidence    : 0.90
+  Keywords      : bi, gay, sex
 
 Document 155
   True Category : soc.religion.christian
@@ -1194,32 +1194,32 @@ Document 155
 Document 156
   True Category : sci.electronics
   Predicted     : Cooling Tower Mechanics
-  Confidence    : 0.95
-  Keywords      : towers, water, draft
+  Confidence    : 0.92
+  Keywords      : cooling, water, draft
 
 Document 157
   True Category : talk.politics.guns
   Predicted     : Militia Regulation Debate
-  Confidence    : 0.95
+  Confidence    : 0.90
   Keywords      : militia, regulated, Federalist
 
 Document 158
   True Category : comp.graphics
-  Predicted     : Usenet Group Discussion
-  Confidence    : 0.50
+  Predicted     : Usenet Group Inquiry
+  Confidence    : 0.70
   Keywords      : newsgroup, graphic design, macs
 
 Document 159
   True Category : misc.forsale
-  Predicted     : Automobile Sale Listing
+  Predicted     : Used Car Sale
   Confidence    : 0.95
-  Keywords      : MAZDA, sale, inspection
+  Keywords      : MAZDA, sale, sun roof
 
 Document 160
   True Category : comp.sys.mac.hardware
   Predicted     : Computer Hardware Upgrade
-  Confidence    : 0.95
-  Keywords      : accelerator, upgrade, Q700
+  Confidence    : 0.90
+  Keywords      : accelerator, upgrade, SCSI
 
 Document 161
   True Category : sci.space
@@ -1231,37 +1231,37 @@ Document 162
   True Category : comp.sys.ibm.pc.hardware
   Predicted     : Monitor Purchase Advice
   Confidence    : 0.90
-  Keywords      : monitor, MAG, NANAO
+  Keywords      : monitor, buy, 17"
 
 Document 163
   True Category : comp.graphics
-  Predicted     : 3D Modeling Software
-  Confidence    : 0.85
-  Keywords      : Imagine, Amiga, speed
+  Predicted     : 3D Graphics Software
+  Confidence    : 0.90
+  Keywords      : Imagine, Amiga, Ray Tracers
 
 Document 164
   True Category : talk.politics.mideast
-  Predicted     : World War 2
-  Confidence    : 0.85
-  Keywords      : Bosnians, Nazis, Serbians
+  Predicted     : World War II Balkans
+  Confidence    : 0.90
+  Keywords      : Nazis, Serbians, Yugoslavia
 
 Document 165
   True Category : talk.politics.mideast
   Predicted     : Political Appointment Dynamics
   Confidence    : 0.75
-  Keywords      : political, appointments, politics
+  Keywords      : political, appointments, old boy
 
 Document 166
   True Category : talk.politics.guns
   Predicted     : State Militia Systems
   Confidence    : 0.90
-  Keywords      : Militia, State Guard, unorganized Militia
+  Keywords      : Militia, State, National Guard
 
 Document 167
   True Category : rec.sport.baseball
-  Predicted     : Sports Betting Predictions
+  Predicted     : Sports Prediction Analysis
   Confidence    : 0.85
-  Keywords      : prediction, Rockies, Rangers
+  Keywords      : Rockies, prediction, SuperBore
 
 Document 168
   True Category : comp.sys.ibm.pc.hardware
@@ -1277,26 +1277,26 @@ Document 169
 
 Document 170
   True Category : sci.med
-  Predicted     : Kirlian Photography
+  Predicted     : Kirlian Photography Discussion
   Confidence    : 0.85
   Keywords      : Kirlian, photography, World magazine
 
 Document 171
   True Category : rec.motorcycles
   Predicted     : Motorcycle Road Trip
-  Confidence    : 0.95
-  Keywords      : interstates, trip, Motorcyclists
+  Confidence    : 0.90
+  Keywords      : interstates, motorcyclists, roads
 
 Document 172
   True Category : talk.politics.mideast
   Predicted     : Humor and Policy Objections
   Confidence    : 0.55
-  Keywords      : home, policy, alternative
+  Keywords      : alternative, policy, objections
 
 Document 173
   True Category : rec.sport.hockey
-  Predicted     : Hockey Game Tradition
-  Confidence    : 0.85
+  Predicted     : Hockey Fan Traditions
+  Confidence    : 0.75
   Keywords      : octopus, ice, Spokane
 
 Document 174
@@ -1307,20 +1307,20 @@ Document 174
 
 Document 175
   True Category : alt.atheism
-  Predicted     : Koresh Legal Issues
-  Confidence    : 0.70
-  Keywords      : Koresh, Feds, tax evasion
+  Predicted     : Religious Figure Discussion
+  Confidence    : 0.75
+  Keywords      : Koresh, Bible, Feds
 
 Document 176
   True Category : misc.forsale
-  Predicted     : Musical Instrument Sale
+  Predicted     : Musical Keyboard For Sale
   Confidence    : 0.90
-  Keywords      : Roland D-50, patches, shipping
+  Keywords      : Roland D-50, patches, keyboard
 
 Document 177
   True Category : soc.religion.christian
-  Predicted     : Atheist Invocation
-  Confidence    : 0.50
+  Predicted     : Theological Reference
+  Confidence    : 0.70
   Keywords      : atheist, listening, roommate
 
 Document 178
@@ -1339,23 +1339,23 @@ Document 180
   True Category : sci.electronics
   Predicted     : Software Installation Issues
   Confidence    : 0.85
-  Keywords      : ZIP, install, floppies
+  Keywords      : PADS, unzipped, install
 
 Document 181
   True Category : rec.motorcycles
-  Predicted     : Motorcycle Coolant Selection
-  Confidence    : 0.90
-  Keywords      : coolant, motorcycles, aluminum-safe
+  Predicted     : Motorcycle Coolant Choice
+  Confidence    : 0.95
+  Keywords      : coolant, aluminum-safe, Kawasaki
 
 Document 182
   True Category : comp.sys.mac.hardware
-  Predicted     : Vintage Computer Battery
+  Predicted     : Vintage Computer Battery Search
   Confidence    : 0.95
   Keywords      : lithium, battery, Mac
 
 Document 183
   True Category : talk.religion.misc
-  Predicted     : Cult and Religion Origins
+  Predicted     : Cult and Religion Formation
   Confidence    : 0.85
   Keywords      : faith, reason, cults
 
@@ -1369,31 +1369,31 @@ Document 185
   True Category : comp.os.ms-windows.misc
   Predicted     : Bitmap Image Creation
   Confidence    : 0.95
-  Keywords      : bitmap, size, width
+  Keywords      : bitmap, size, SDK
 
 Document 186
   True Category : rec.sport.baseball
   Predicted     : Baseball Trivia Analysis
   Confidence    : 0.85
-  Keywords      : team, saves, trivia
+  Keywords      : trivia, team, saves
 
 Document 187
   True Category : sci.med
-  Predicted     : Teacher Immunization Development
+  Predicted     : Teacher Immune System Development
   Confidence    : 0.75
   Keywords      : teachers, immunities, pathogens
 
 Document 188
   True Category : rec.sport.baseball
-  Predicted     : Baseball Player Achievements
+  Predicted     : Baseball Home Runs
   Confidence    : 0.90
-  Keywords      : Johnny Mize, HR, record
+  Keywords      : three-HR, games, record
 
 Document 189
   True Category : talk.politics.mideast
-  Predicted     : Unclear Content
+  Predicted     : Ambiguous Exclamation
   Confidence    : 0.10
-  Keywords      : come, on, Josh
+  Keywords      : 
 
 Document 190
   True Category : comp.graphics
@@ -1410,54 +1410,54 @@ Document 191
 Document 192
   True Category : comp.graphics
   Predicted     : VOGL Graphics Library
-  Confidence    : 0.85
+  Confidence    : 0.90
   Keywords      : VOGL, IBM-PC, MS-Fortran
 
 Document 193
   True Category : sci.crypt
-  Predicted     : Media Plurality Discussion
+  Predicted     : Media Analysis Discussion
   Confidence    : 0.85
-  Keywords      : media, publications, informative
+  Keywords      : media, publications, informed
 
 Document 194
   True Category : soc.religion.christian
-  Predicted     : Biblical Interpretation Exegesis
-  Confidence    : 0.85
+  Predicted     : Biblical Interpretation Hermeneutics
+  Confidence    : 0.90
   Keywords      : Scripture, interpretation, inspired
 
 Document 195
   True Category : comp.os.ms-windows.misc
   Predicted     : Text Analysis Request
   Confidence    : 0.50
-  Keywords      : text, analyze, request
+  Keywords      : analyze, text
 
 Document 196
   True Category : rec.sport.hockey
-  Predicted     : Interpersonal Conflict Discussion
+  Predicted     : Interpersonal Conflict
   Confidence    : 0.75
   Keywords      : dorks, Minnesota, Leafs
 
 Document 197
   True Category : comp.windows.x
-  Predicted     : X Window System Debugging
+  Predicted     : X Window System Connection
   Confidence    : 0.95
-  Keywords      : X windows, SGI, xdm
+  Keywords      : X windows, SGI, socket
 
 Document 198
   True Category : sci.electronics
   Predicted     : Electronic Timer Circuit Design
   Confidence    : 0.95
-  Keywords      : circuit, battery, heater
+  Keywords      : MC14521B, ckt, battery
 
 Document 199
   True Category : comp.windows.x
-  Predicted     : X-Terminal Network Configuration
+  Predicted     : X-Terminal TCP/IP Configuration
   Confidence    : 0.95
   Keywords      : X-Terminal, TCP/IP, access control list
 
 Document 200
   True Category : sci.med
-  Predicted     : Fishing Injury Recovery
+  Predicted     : Fishing Accident Injury
   Confidence    : 0.85
   Keywords      : fisherman, rib, back
 

@@ -8,6 +8,9 @@ from dataset import load_data
 # data
 data = load_data()
 docs = data['docs']
+doc_ids = data['doc_ids']
+labels = data['labels']
+category_names = data['category_names']
 
 # bertopic model
 
@@ -45,6 +48,16 @@ for topic_id in topic_info['Topic']:
         })
 
 # output
+assignments = [
+    {
+        "doc_id": doc_ids[i],
+        "true_category": category_names[labels[i]],
+        "topic_id": int(topics_list[i]),
+        "topic_prob": float(probs[i]) if probs is not None and probs[i] is not None else None,
+    }
+    for i in range(len(docs))
+]
+
 output = {
     "model": "BERTopic",
     "dataset": "20 Newsgroups",
@@ -52,7 +65,8 @@ output = {
     "num_topics": len(topics),
     "training_time_seconds": round(training_time, 2),
     "timestamp": datetime.now().isoformat(),
-    "topics": topics
+    "topics": topics,
+    "assignments": assignments,
 }
 
 with open("outputs/bertopic/bertopic_results.json", "w") as f:

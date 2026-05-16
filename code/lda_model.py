@@ -2,6 +2,9 @@ from dataset import load_data
 
 data = load_data()
 docs = data['docs']
+doc_ids = data['doc_ids']
+labels = data['labels']
+category_names = data['category_names']
 
 
 print(f"Total number of documents: {len(docs)}")  # Total number of documents: 18846
@@ -42,6 +45,18 @@ for i, topic in enumerate(lda.components_):
         "top_words": top_words
     })
 
+# Per-document topic assignment (argmax over topic distribution)
+doc_topic = lda.transform(dtm)
+assignments = [
+    {
+        "doc_id": doc_ids[i],
+        "true_category": category_names[labels[i]],
+        "topic_id": int(doc_topic[i].argmax()),
+        "topic_prob": float(doc_topic[i].max()),
+    }
+    for i in range(len(docs))
+]
+
 output = {
     "model": "LDA",
     "dataset": "20 Newsgroups",
@@ -49,7 +64,8 @@ output = {
     "num_topics": 10,
     "training_time_seconds": round(training_time, 2),
     "timestamp": datetime.now().isoformat(),
-    "topics": topics
+    "topics": topics,
+    "assignments": assignments,
 }
 
 
