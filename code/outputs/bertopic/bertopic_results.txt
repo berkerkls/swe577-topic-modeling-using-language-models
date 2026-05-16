@@ -5,19 +5,19 @@ BERTopic Topic Modeling Results
 Dataset: 20 Newsgroups
 Documents: 18846
 Topics: 9
-Training time: 269.92 seconds
-Timestamp: 2026-05-15 14:55:23
+Training time: 263.16 seconds
+Timestamp: 2026-05-16 14:55:33
 
 ------------------------------------------------------------
 TOPICS
 ------------------------------------------------------------
 
-Topic 0 (3606 docs): the, to, and, is, for, it, of, in, you, with
-Topic 1 (2849 docs): the, of, to, and, that, in, is, it, you, not
-Topic 2 (1829 docs): the, to, in, and, he, of, game, that, was, is
-Topic 3 (1743 docs): maxaxaxaxaxaxaxaxaxaxaxaxaxaxax, the, to, of, and, is, in, for, that, be
-Topic 4 (546 docs): the, of, to, and, is, in, it, that, for, this
-Topic 5 (459 docs): the, of, to, and, is, in, that, for, be, it
-Topic 6 (397 docs): the, to, and, you, my, of, it, in, on, that
-Topic 7 (138 docs): the, battery, is, to, and, it, in, on, of, ground
-Topic 8 (79 docs): the, kirlian, photography, to, of, is, it, in, and, uv
+Topic 0 (3269 docs): use, windows, drive, software, db, card, like, does, thanks, file
+Topic 1 (3225 docs): people, god, dont, think, said, just, know, did, say, like
+Topic 2 (2397 docs): game, team, games, year, players, season, hockey, play, win, league
+Topic 3 (1294 docs): key, chip, use, data, keys, space, government, information, privacy, security
+Topic 4 (1095 docs): car, bike, insurance, just, like, cars, dont, dod, engine, good
+Topic 5 (485 docs): msg, medical, cancer, food, patients, dont, doctor, treatment, know, medicine
+Topic 6 (186 docs): water, battery, energy, photography, temperature, batteries, discharge, cooling, concrete, dept
+Topic 7 (120 docs): points, den, algorithm, line, problem, plane, xxxx, edge, point, radius
+Topic 8 (15 docs): ground, conductor, neutral, wire, connected, current, panel, outlets, grounded, box
