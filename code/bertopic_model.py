@@ -23,6 +23,7 @@ vectorizer_model = CountVectorizer(
 )
 topic_model = BERTopic(
     nr_topics=10,        # same number of topics as LDA (fair comparison)
+    top_n_words=20,
     verbose=True,
     language="english",
     vectorizer_model=vectorizer_model,
@@ -40,7 +41,7 @@ for topic_id in topic_info['Topic']:
         continue
     topic_words = topic_model.get_topic(topic_id)
     if topic_words:
-        top_words = [word for word, _ in topic_words[:10]]
+        top_words = [word for word, _ in topic_words[:20]]
         topics.append({
             "topic_id": int(topic_id),
             "top_words": top_words,

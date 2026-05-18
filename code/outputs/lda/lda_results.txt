@@ -5,20 +5,20 @@ LDA Topic Modeling Results
 Dataset: 20 Newsgroups
 Documents: 18846
 Topics: 10
-Training time: 47.48 seconds
-Timestamp: 2026-05-16 17:54:17
+Training time: 47.21 seconds
+Timestamp: 2026-05-18 20:10:07
 
 ------------------------------------------------------------
 TOPICS
 ------------------------------------------------------------
 
-Topic 0: just, don, like, good, think, know, time, ve, really, going
-Topic 1: drive, dos, card, use, windows, thanks, disk, know, scsi, does
-Topic 2: god, people, jesus, said, did, know, think, church, christ, mr
-Topic 3: file, edu, image, use, com, program, ftp, files, available, windows
-Topic 4: armenian, people, gun, israel, armenians, war, jews, turkish, government, db
-Topic 5: space, research, new, information, university, nasa, 1993, health, earth, data
-Topic 6: people, don, does, think, just, like, know, say, believe, way
-Topic 7: ax, max, g9v, b8f, a86, pl, 145, 1d9, 34u, 1t
-Topic 8: key, government, use, law, encryption, public, chip, clipper, security, keys
-Topic 9: 00, 10, game, 25, team, 20, 11, 12, 15, games
+Topic 0: just, don, like, good, think, know, time, ve, really, going, car, right, got, way, ll, make, people, better, want, didn
+Topic 1: drive, dos, card, use, windows, thanks, disk, know, scsi, does, like, pc, mac, software, problem, new, need, hard, used, work
+Topic 2: god, people, jesus, said, did, know, think, church, christ, mr, say, president, don, children, believe, time, man, going, come, bible
+Topic 3: file, edu, image, use, com, program, ftp, files, available, windows, graphics, version, window, server, software, mail, pub, jpeg, list, using
+Topic 4: armenian, people, gun, israel, armenians, war, jews, turkish, government, db, state, jewish, israeli, 000, said, states, turkey, guns, killed, russian
+Topic 5: space, research, new, information, university, nasa, 1993, health, earth, data, national, center, program, medical, april, high, use, years, launch, 10
+Topic 6: people, don, does, think, just, like, know, say, believe, way, point, question, read, true, god, good, time, evidence, make, fact
+Topic 7: ax, max, g9v, b8f, a86, pl, 145, 1d9, 34u, 1t, 0t, bhj, 3t, 75u, giz, 2di, wm, cx, 2tm, 7ey
+Topic 8: key, government, use, law, encryption, public, chip, clipper, security, keys, people, information, private, privacy, used, phone, number, algorithm, message, enforcement
+Topic 9: 00, 10, game, 25, team, 20, 11, 12, 15, games, 16, 50, 14, 13, 17, 18, 30, season, play, 19

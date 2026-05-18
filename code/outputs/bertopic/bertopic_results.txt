@@ -5,19 +5,19 @@ BERTopic Topic Modeling Results
 Dataset: 20 Newsgroups
 Documents: 18846
 Topics: 9
-Training time: 288.46 seconds
-Timestamp: 2026-05-16 18:03:18
+Training time: 289.20 seconds
+Timestamp: 2026-05-18 20:35:27
 
 ------------------------------------------------------------
 TOPICS
 ------------------------------------------------------------
 
-Topic 0 (4563 docs): people, dont, god, think, just, know, said, government, like, say
-Topic 1 (3622 docs): image, windows, use, drive, file, software, like, new, does, version
-Topic 2 (1831 docs): game, team, games, year, players, season, hockey, play, win, league
-Topic 3 (526 docs): gun, guns, bike, dont, just, dog, people, like, right, think
-Topic 4 (497 docs): insurance, msg, health, patients, food, medical, cancer, doctor, pain, dont
-Topic 5 (365 docs): space, mission, moon, earth, nasa, launch, probe, sky, solar, shuttle
-Topic 6 (214 docs): battery, water, oil, temperature, batteries, concrete, heat, nuclear, steam, car
-Topic 7 (200 docs): radar, ground, detector, phone, radio, equipment, radar detector, detectors, wire, neutral
-Topic 8 (119 docs): points, den, algorithm, line, plane, problem, edge, point, radius, lines
+Topic 0 (4135 docs): people, dont, just, think, know, god, said, government, like, say, did, time, right, believe, does, way, key, law, use, mr
+Topic 1 (3767 docs): drive, image, use, windows, software, like, file, jpeg, does, disk, know, new, data, card, just, im, thanks, problem, using, dont
+Topic 2 (2399 docs): game, team, games, year, players, season, play, win, league, teams, period, think, baseball, good, la, dont, just, like, time, hit
+Topic 3 (556 docs): bike, dog, car, just, radar, helmet, dont, riding, like, right, ride, turn, left, detector, time, think, know, light, ive, speed
+Topic 4 (455 docs): space, science, orbit, universe, mission, earth, nasa, moon, theory, time, like, launch, spacecraft, solar, just, think, light, mass, sky, years
+Topic 5 (392 docs): cancer, msg, medical, food, patients, diet, pain, dont, disease, people, treatment, health, research, medicine, effects, doctor, like, clinical, know, cause
+Topic 6 (192 docs): book, den, points, books, problem, algorithm, line, point, plane, xxxx, edge, sphere, radius, chemistry, lines, looking, like, problems, solutions, surface
+Topic 7 (183 docs): oil, water, fan, heat, cpu, car, steam, hot, towers, temperature, paint, plants, use, just, fuel, used, sink, air, power, stuff
+Topic 8 (55 docs): battery, ground, batteries, concrete, neutral, conductor, wire, discharge, temperature, current, reaction, connected, heat, panel, outlets, charging, acid, grounded, lead, dirt

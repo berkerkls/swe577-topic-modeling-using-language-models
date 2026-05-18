@@ -3,8 +3,8 @@
   "dataset": "20 Newsgroups",
   "num_documents": 18846,
   "num_topics": 10,
-  "training_time_seconds": 47.48,
-  "timestamp": "2026-05-16T17:54:17.828629",
+  "training_time_seconds": 47.21,
+  "timestamp": "2026-05-18T20:10:07.417128",
   "topics": [
     {
       "topic_id": 0,
@@ -18,7 +18,17 @@
         "time",
         "ve",
         "really",
-        "going"
+        "going",
+        "car",
+        "right",
+        "got",
+        "way",
+        "ll",
+        "make",
+        "people",
+        "better",
+        "want",
+        "didn"
       ]
     },
     {
@@ -33,7 +43,17 @@
         "disk",
         "know",
         "scsi",
-        "does"
+        "does",
+        "like",
+        "pc",
+        "mac",
+        "software",
+        "problem",
+        "new",
+        "need",
+        "hard",
+        "used",
+        "work"
       ]
     },
     {
@@ -48,7 +68,17 @@
         "think",
         "church",
         "christ",
-        "mr"
+        "mr",
+        "say",
+        "president",
+        "don",
+        "children",
+        "believe",
+        "time",
+        "man",
+        "going",
+        "come",
+        "bible"
       ]
     },
     {
@@ -63,7 +93,17 @@
         "ftp",
         "files",
         "available",
-        "windows"
+        "windows",
+        "graphics",
+        "version",
+        "window",
+        "server",
+        "software",
+        "mail",
+        "pub",
+        "jpeg",
+        "list",
+        "using"
       ]
     },
     {
@@ -78,7 +118,17 @@
         "jews",
         "turkish",
         "government",
-        "db"
+        "db",
+        "state",
+        "jewish",
+        "israeli",
+        "000",
+        "said",
+        "states",
+        "turkey",
+        "guns",
+        "killed",
+        "russian"
       ]
     },
     {
@@ -93,7 +143,17 @@
         "1993",
         "health",
         "earth",
-        "data"
+        "data",
+        "national",
+        "center",
+        "program",
+        "medical",
+        "april",
+        "high",
+        "use",
+        "years",
+        "launch",
+        "10"
       ]
     },
     {
@@ -108,7 +168,17 @@
         "know",
         "say",
         "believe",
-        "way"
+        "way",
+        "point",
+        "question",
+        "read",
+        "true",
+        "god",
+        "good",
+        "time",
+        "evidence",
+        "make",
+        "fact"
       ]
     },
     {
@@ -123,7 +193,17 @@
         "145",
         "1d9",
         "34u",
-        "1t"
+        "1t",
+        "0t",
+        "bhj",
+        "3t",
+        "75u",
+        "giz",
+        "2di",
+        "wm",
+        "cx",
+        "2tm",
+        "7ey"
       ]
     },
     {
@@ -138,7 +218,17 @@
         "chip",
         "clipper",
         "security",
-        "keys"
+        "keys",
+        "people",
+        "information",
+        "private",
+        "privacy",
+        "used",
+        "phone",
+        "number",
+        "algorithm",
+        "message",
+        "enforcement"
       ]
     },
     {
@@ -153,7 +243,17 @@
         "11",
         "12",
         "15",
-        "games"
+        "games",
+        "16",
+        "50",
+        "14",
+        "13",
+        "17",
+        "18",
+        "30",
+        "season",
+        "play",
+        "19"
       ]
     }
   ],

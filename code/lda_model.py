@@ -39,7 +39,7 @@ training_time = time.time() - start
 feature_names = vectorizer.get_feature_names_out()
 topics = []
 for i, topic in enumerate(lda.components_):
-    top_words = [feature_names[j] for j in topic.argsort()[:-11:-1]]
+    top_words = [feature_names[j] for j in topic.argsort()[:-21:-1]]
     topics.append({
         "topic_id": i,
         "top_words": top_words
